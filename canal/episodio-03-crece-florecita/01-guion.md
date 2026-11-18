@@ -11,7 +11,7 @@ Además, se aprenden los colores.
 Ver `../comun/cancion-entrada-salida.md`.
 
 ### Escena 2 · 0:15–0:35 · El jardín de colores
-[EN PANTALLA: un jardín lleno de flores de colores. La nave amarilla de Oryx está estacionada al lado.]
+[EN PANTALLA: un jardín lleno de flores de colores. El platillo volador de Oryx está estacionado al lado.]
 **Oryx:** ¡Luna, mira cuántos colores! ¡Roja, azul, rosa!
 [EN PANTALLA: en una esquina, a la sombra de la nave, hay una flor caída y gris.]
 

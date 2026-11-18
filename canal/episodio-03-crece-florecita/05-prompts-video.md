@@ -8,9 +8,9 @@ Reemplaza [ESTILO], [ORYX], [LUNA] y [ANTENAS ROJAS] por los bloques de
 **Escena 2 · El jardín de colores (20 s)**
 ```
 [ESTILO] A cheerful garden full of red, blue, pink and purple flowers, a round shiny yellow
-spaceship parked at one side. [ORYX] walks among the flowers pointing at them amazed,
+flying saucer [NAVE] parked at one side. [ORYX] walks among the flowers pointing at them amazed,
 [LUNA] sniffs the flowers. Camera slowly reveals one sad droopy gray flower in the shadow
-of the spaceship.
+of the flying saucer.
 ```
 
 **Escena 3 · ¡Bip-bip! (15 s)**
@@ -36,13 +36,13 @@ glow brighter.
 **Escena 6 · Luna descubre el problema (20 s)**
 ```
 [ESTILO] [LUNA] sniffs dry cracked soil around a droopy gray flower. The camera pans up to
-show the big yellow spaceship blocking the sunlight and casting a shadow on the flower.
+show the big flying saucer blocking the sunlight and casting a shadow on the flower.
 [ORYX] covers his mouth with both hands, surprised.
 ```
 
 **Escena 7 · Agua y sol (20 s)**
 ```
-[ESTILO] The round yellow spaceship floats a little to the side and warm sunlight shines on
+[ESTILO] The flying saucer floats a little to the side and warm sunlight shines on
 a gray flower. [ORYX] and [LUNA] water it with a small watering can, gentle drops falling.
 The flower slowly starts to lift up, still gray.
 ```

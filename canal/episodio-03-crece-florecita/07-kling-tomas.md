@@ -12,12 +12,12 @@ Cada toma dura 5 o 10 s. Copia el prompt completo tal cual.
 **T1 · 10 s** · Elements: Oryx, Luna, Nave
 🎙️ Lip Sync: Oryx: «¡Luna, mira cuántos colores! ¡Roja, azul, rosa!»
 ```
-A cheerful garden full of red, blue, pink and purple flowers, the round yellow spaceship parked at one side. Oryx walks among the flowers pointing at them amazed, Luna sniffs the flowers. Slow side tracking shot. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+A cheerful garden full of red, blue, pink and purple flowers, the flying saucer parked at one side. Oryx walks among the flowers pointing at them amazed, Luna sniffs the flowers. Slow side tracking shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T2 · 10 s** · Elements: Nave
 ```
-In the shadow of the round yellow spaceship there is one sad droopy gray flower in dry soil, among colorful flowers. Slow pan from the colorful flowers to the gray flower. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+In the shadow of the flying saucer there is one sad droopy gray flower in dry soil, among colorful flowers. Slow pan from the colorful flowers to the gray flower. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 3 · ¡Bip-bip! (0:35–0:50)
@@ -25,13 +25,13 @@ In the shadow of the round yellow spaceship there is one sad droopy gray flower 
 **T3 · 5 s** · Elements: Oryx
 🎙️ Lip Sync: Oryx: «¡Bip-bip-bip! ¿Una flor? ¡Pero las flores no hablan!»
 ```
-Close-up of Oryx, his antenna tips light up bright red and blink, he looks at a sad gray flower, confused. Slow push in. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Close-up of Oryx, his antenna tips light up bright red and blink, he looks at a sad gray flower, confused. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T4 · 10 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Luna: «¡Guau! Las flores no hablan, Oryx… ¡pero sí están vivas!»
 ```
-Luna sits next to a sad droopy gray flower and looks up at Oryx, talking; Oryx listens with wide eyes. Static medium shot. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Luna sits next to a sad droopy gray flower and looks up at Oryx, talking; Oryx listens with wide eyes. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 4 · Oryx se equivoca (0:50–1:10)
@@ -39,13 +39,13 @@ Luna sits next to a sad droopy gray flower and looks up at Oryx, talking; Oryx l
 **T5 · 10 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¡Ya sé! ¡Le canto una canción de rock espacial para que se alegre!»
 ```
-Oryx plays a funny air guitar in front of a sad gray flower, his antennae bouncing, cartoon music notes flying around. Luna tilts her head. Static medium shot. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Oryx plays a funny air guitar in front of a sad gray flower, his antennae bouncing, cartoon music notes flying around. Luna tilts her head. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T6 · 10 s** · Elements: Oryx
 🎙️ Lip Sync: Oryx: «Mmm… no funcionó.»
 ```
-The gray flower stays droopy. Oryx stops playing, shrugs and looks a little disappointed. Slow push in. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+The gray flower stays droopy. Oryx stops playing, shrugs and looks a little disappointed. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 5 · Pregunta a los niños (1:10–1:20)
@@ -53,7 +53,7 @@ The gray flower stays droopy. Oryx stops playing, shrugs and looks a little disa
 **T7 · 10 s** · Elements: Oryx
 🎙️ Lip Sync: Oryx: «¿Tú sabes qué necesita la florecita?»
 ```
-Oryx looks directly at the camera with a curious face, then waits patiently, blinking. Static medium close-up, empty space on both sides. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Oryx looks directly at the camera with a curious face, then waits patiently, blinking. Static medium close-up, empty space on both sides. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 6 · Luna descubre el problema (1:20–1:40)
@@ -61,58 +61,58 @@ Oryx looks directly at the camera with a curious face, then waits patiently, bli
 **T8 · 10 s** · Elements: Luna
 🎙️ Lip Sync: Luna: «¡La tierrita está seca!»
 ```
-Luna sniffs dry cracked soil around a droopy gray flower, then looks up. Static close-up, low angle. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Luna sniffs dry cracked soil around a droopy gray flower, then looks up. Static close-up, low angle. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T9 · 10 s** · Elements: Oryx, Luna, Nave
 🎙️ Lip Sync: Luna: «Y mira, Oryx… ¡tu nave le tapa el sol!» / Oryx: «¡Oh, no! ¡Mi nave le estaba haciendo sombra!»
 ```
-The camera reveals the big round yellow spaceship blocking the sunlight and casting a shadow on the gray flower. Oryx covers his mouth with both hands, surprised. Slow tilt up. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+The camera reveals the flying saucer blocking the sunlight and casting a shadow on the gray flower. Oryx covers his mouth with both hands, surprised. Slow tilt up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 7 · Agua y sol (1:40–2:00)
 
 **T10 · 10 s** · Elements: Nave
 ```
-The round yellow spaceship floats gently to the side and warm sunlight shines down on a droopy gray flower. Static wide shot. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+The flying saucer floats gently to the side and warm sunlight shines down on a droopy gray flower. Static wide shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T11 · 10 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¡Agüita para ti, florecita! ¡Y mucho sol!»
 ```
-Oryx and Luna water a gray flower with a small watering can, gentle drops fall, the flower slowly starts to lift up, still gray. Slow push in. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Oryx and Luna water a gray flower with a small watering can, gentle drops fall, the flower slowly starts to lift up, still gray. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 8 · Canción (2:00–3:15)
 
 **T12 · 10 s** · Elements: Oryx
 ```
-Soft-focus memory: a sad gray flower and Oryx playing air guitar, music notes floating. Slow push in, soft glow. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Soft-focus memory: a sad gray flower and Oryx playing air guitar, music notes floating. Slow push in, soft glow. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T13 · 10 s** · Elements: Luna
 ```
-Luna sniffs dry soil and sparkly water drops fall one by one on the flower. Static close-up. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Luna sniffs dry soil and sparkly water drops fall one by one on the flower. Static close-up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T14 · 10 s** · Elements: Oryx, Luna
 ```
-A flower slowly grows taller in the sunlight, Oryx and Luna rise up from a crouch with it, opening their arms. Slow tilt up. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+A flower slowly grows taller in the sunlight, Oryx and Luna rise up from a crouch with it, opening their arms. Slow tilt up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T15 · 10 s** · Elements: Oryx
 ```
-Magical transformation: the flower changes color step by step, red, then yellow, then pink, then purple, then blue, small sparkles burst at each change. Oryx claps amazed. Static medium shot, flower in the center. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Magical transformation: the flower changes color step by step, red, then yellow, then pink, then purple, then blue, small sparkles burst at each change. Oryx claps amazed. Static medium shot, flower in the center. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T16 · 10 s** · Elements: —
 ```
-A big bright rainbow-colored flower blooms fully in the sunlight, petals open, sparkles around it. Slow orbit around the flower. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+A big bright rainbow-colored flower blooms fully in the sunlight, petals open, sparkles around it. Slow orbit around the flower. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T17 · 10 s** · Elements: Oryx, Luna
 ```
-The whole garden shines with colors, Oryx and Luna dance happily around the beautiful flower. Slow orbit around the characters. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+The whole garden shines with colors, Oryx and Luna dance happily around the beautiful flower. Slow orbit around the characters. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 9 · Celebración y estampita (3:15–3:30)
@@ -120,12 +120,12 @@ The whole garden shines with colors, Oryx and Luna dance happily around the beau
 **T18 · 5 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¡RAWR! ¡Estampita de flor para mi Diario Terrícola!»
 ```
-Oryx jumps and roars happily, wiggling his dinosaur tail, Luna barks. Static medium shot. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Oryx jumps and roars happily, wiggling his dinosaur tail, Luna barks. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T19 · 10 s** · Elements: Oryx
 ```
-Close-up of Oryx's hands sticking a shiny rainbow flower sticker on a page of a small colorful notebook, sparkles appear. Static top-down close-up. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Close-up of Oryx's hands sticking a shiny rainbow flower sticker on a page of a small colorful notebook, sparkles appear. Static top-down close-up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 10 · ¿Qué aprendimos hoy? (3:30–3:40)
@@ -133,7 +133,7 @@ Close-up of Oryx's hands sticking a shiny rainbow flower sticker on a page of a 
 **T20 · 10 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¿Qué aprendimos hoy?» / Luna: «¡Que las plantas también están vivas y necesitan agua y sol!» / Oryx: «¡Y yo aprendí a estacionar mi nave en otro lado!»
 ```
-Oryx and Luna sit next to the bright colorful flower in the sunny garden, looking at the camera and talking happily, Oryx laughs. Static medium shot. Soft 3D cartoon for toddlers, bright saturated colors, gentle warm lighting.
+Oryx and Luna sit next to the bright colorful flower in the sunny garden, looking at the camera and talking happily, Oryx laughs. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Salida

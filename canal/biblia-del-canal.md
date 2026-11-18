@@ -9,7 +9,8 @@ amar y respetar a los animales y a la naturaleza, junto con su amiga, la chihuah
 ## Personajes
 
 ### 🟡 Oryx, el marcianito
-- Piel amarilla, dos antenitas con bolitas en la punta, pijama de dinosaurio verde con colita.
+- Piel amarilla, ojos azules, dos antenitas grises con bolitas amarillas, pijama de dinosaurio verde
+  con cara de dinosaurio en la capucha y colita. Imagen oficial: `comun/referencias/01-oryx-luna-principal.jpg`.
 - Viene del Planeta Amarillo, donde no hay animales ni plantas: todo en la Tierra le asombra.
 - **Recurso estrella:** cuando un animal necesita ayuda, sus antenitas se encienden y hacen
   *"¡bip-bip-bip!"*. Así arranca cada episodio.
@@ -17,7 +18,7 @@ amar y respetar a los animales y a la naturaleza, junto con su amiga, la chihuah
 - Se equivoca con frecuencia porque no conoce la Tierra, y los niños lo corrigen.
 
 ### 🐕 Luna, la chihuahua
-- Pequeñita, valiente y muy cariñosa.
+- Pequeñita, café/canela, valiente y muy cariñosa. Collar rojo con campanita dorada ("tilín-tilín").
 - **Recurso estrella:** entiende a los animales y le "traduce" a Oryx cómo se sienten.
 - Sonido: un ladrido corto y agudo, *"¡Guau!"*, que significa "¡ya sé!".
 
@@ -45,7 +46,7 @@ intento fallido antes de la solución.
 
 ## Episodio 1: "El pajarito que se cayó del nido"
 
-[EN PANTALLA: canción de entrada, nave amarilla aterrizando en un parque]
+[EN PANTALLA: canción de entrada, platillo volador aterrizando en un parque]
 
 [EN PANTALLA: antenitas brillando en rojo]
 **Oryx:** ¡Bip-bip-bip! ¡Alguien necesita ayuda!
@@ -247,7 +248,7 @@ con Luna, su perrita,
 ¡a la Tierra a explorar!
 ¡Oryx y Luna! ¡RAWR! ¡Guau!
 
-*En pantalla:* la nave amarilla cruza el cielo → aterriza → se abre la puerta → las antenitas
+*En pantalla:* la platillo volador cruza el cielo → aterriza → se abre la puerta → las antenitas
 brillan en "bip, bip" → Oryx saluda con su pijama de dinosaurio → Luna salta a su lado →
 logo del canal en "¡Oryx y Luna!".
 *Movimientos:* antenitas con los dedos sobre la cabeza en "bip, bip"; garritas de dinosaurio

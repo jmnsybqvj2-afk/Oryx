@@ -9,10 +9,14 @@ canal/
 │   ├── personajes-y-estilo.md        ← cómo se ven y suenan Oryx y Luna + bloques de prompt
 │   ├── cancion-entrada-salida.md     ← intro y outro + prompt de música
 │   └── configuracion-youtube.md      ← cómo subir cada video (Hecho para niños, etc.)
-├── episodio-01-pio-pio-pajarito/
+├── episode-01-pio-pio-pajarito/
 ├── episodio-02-agua-fresca/
 └── episodio-03-crece-florecita/
 ```
+
+> **Episode 1 is in English** (`episode-01-pio-pio-pajarito/`): files `01-script.md`, `02-song.md`,
+> `03-title-and-thumbnail.md`, `04-description-and-tags.md`, `05-video-prompts.md`,
+> `06-production-checklist.md`, `07-kling-shots.md` and `PROGRESS.md`. Dialogue and lyrics stay in Spanish.
 
 Cada carpeta de episodio tiene:
 

@@ -1,20 +1,25 @@
-# Episodio 1 · El pajarito que se cayó del nido — Tomas para Kling
+# Episode 1 · The Little Bird Who Fell from the Nest — Shots for Kling
 
-Lee primero `../comun/kling-guia.md` (Elements, prompt negativo, voces y edición).
+Read `../comun/kling-guia.md` first (Elements, negative prompt, voices and editing).
 
-⚠️ **Tomas con Rosa (T11, T12, T13, T17, T18):** Rosa es **veterinaria** (bata blanca, guantes azules). Revisa que salga
-siempre así y sin nada parecido a un arma. Si no, borra la toma y genera otra.
-Cada toma dura 5 o 10 s. Copia **solo el texto en inglés del recuadro**. No pegues el guion en
-español ni las líneas 🎙️: Kling las convierte en letreros dentro del video.
+⚠️ **Shots with Rosa (T11, T12, T13, T17, T18):** Rosa is a **veterinarian** (white coat, blue
+gloves). Check that she always looks like that and has nothing that looks like a weapon. If not,
+delete the shot and generate another one.
 
-🐦 **El pajarito siempre es gris** (ver [PAJARITO] en `../comun/personajes-y-estilo.md`).
-Avance de las tomas: ver `PROGRESO.md`.
+Each shot is 5 or 10 s long. Copy **only the English text inside the box**. Do not paste the
+Spanish script or the 🎙️ lines: Kling turns them into text drawn inside the video.
 
-**Total de tomas nuevas:** 22 (+ 4 tomas comunes de entrada y salida) · **Duración del episodio:** ≈ 4:00
+🐦 **The baby bird is always gray** (see [PAJARITO] in `../comun/personajes-y-estilo.md`).
+Shot progress: see `PROGRESS.md`.
 
-**Entrada:** usar las tomas comunes de `../comun/kling-guia.md`.
+The 🎙️ lines are the **Spanish dialogue** for the voices and Lip Sync (they stay in Spanish
+because that is what the kids hear). The English translation is in `01-script.md`.
 
-## Escena 2 · Paseo por el parque (0:15–0:30)
+**Total new shots:** 22 (+ 4 shared opening and closing shots) · **Episode length:** ≈ 4:00
+
+**Opening:** use the shared shots in `../comun/kling-guia.md`.
+
+## Scene 2 · Walk in the park (0:15–0:30)
 
 **T1 · 10 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¡Luna, mira! Esta cosa verde es suavecita… ¿cómo se llama?» / Luna: «¡Pasto, Oryx!»
@@ -28,7 +33,7 @@ Sunny morning in a colorful park with a big tree. Oryx walks slowly and touches 
 Oryx jumps with joy in the park, roars playfully and wiggles his dinosaur tail. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
-## Escena 3 · ¡Bip-bip! (0:30–0:45)
+## Scene 3 · Beep-beep! (0:30–0:45)
 
 **T3 · 5 s** · Elements: Oryx
 🎙️ Lip Sync: Oryx: «¡Bip-bip-bip! ¡Mis antenitas! ¡Alguien necesita ayuda!»
@@ -42,7 +47,7 @@ Close-up of Oryx in the park, his antenna tips light up bright red and blink, he
 Oryx and Luna look around the park, then spot a tiny fluffy gray baby bird sitting alone on the grass, chirping softly. Oryx points at it. Slow pan from the characters to the gray baby bird. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
-## Escena 4 · Oryx se equivoca (0:45–1:05)
+## Scene 4 · Oryx gets it wrong (0:45–1:05)
 
 **T5 · 10 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¡Ya sé! ¡Me lo llevo a mi nave para jugar con él todo el día!»
@@ -56,7 +61,7 @@ Oryx leans toward a tiny gray baby bird on the grass with excited open arms. Lun
 Oryx stops, looks confused and scratches his hood, Luna sits calmly next to the gray baby bird. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
-## Escena 5 · Pregunta a los niños (1:05–1:15)
+## Scene 5 · Question for the kids (1:05–1:15)
 
 **T7 · 10 s** · Elements: Oryx
 🎙️ Lip Sync: Oryx: «¿Tú sabes qué necesita el pajarito?»
@@ -64,7 +69,7 @@ Oryx stops, looks confused and scratches his hood, Luna sits calmly next to the 
 Oryx looks directly at the camera with a curious face and one finger on his chin, then waits patiently, blinking. Static medium close-up, empty space on the right. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
-## Escena 6 · Luna traduce (1:15–1:35)
+## Scene 6 · Luna translates (1:15–1:35)
 
 **T8 · 5 s** · Elements: Luna
 🎙️ Lip Sync: Luna: «Dice que extraña a su mamá.»
@@ -84,7 +89,7 @@ The camera slowly moves up a big tree trunk to a nest on a low branch where a gr
 Oryx looks up at the tree, surprised and happy, hands on his cheeks. Static medium shot, low angle. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
-## Escena 7 · Pedir ayuda a un adulto (1:35–2:00)
+## Scene 7 · Asking a grown-up for help (1:35–2:00)
 
 **T11 · 5 s** · Elements: Oryx, Luna, Rosa
 🎙️ Lip Sync: Oryx: «¡Hay que pedir ayuda a un adulto!» / Luna: «¡Ahí viene Rosa!»
@@ -103,14 +108,14 @@ Rosa puts on gloves and very gently lifts a tiny gray baby bird with both hands 
 Rosa kneels down and talks kindly to Oryx and Luna, then gives a thumbs up; Oryx smiles and says thank you. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
-## Escena 8 · Canción (2:00–3:15)
+## Scene 8 · Song (2:00–3:15)
 
 **T14 · 10 s** · Elements: Oryx, Luna
 ```
 Dreamy soft-focus scene: Oryx and Luna find a gray baby bird in the grass, music notes float in the air. Slow push in, soft glow. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
-**T15 · 10 s** · Elements: —
+**T15 · 10 s** · Elements: none
 ```
 A tiny fluffy gray baby bird cuddles with its mother in a cozy nest, little hearts float around them. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
@@ -135,7 +140,7 @@ Oryx, Luna and Rosa dance flapping their arms like wings under the tree, birds c
 Oryx and Luna wave up at the bird family in the nest, the gray mother bird and baby chirp back. Slow tilt from the characters up to the nest. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
-## Escena 9 · Celebración y estampita (3:15–3:30)
+## Scene 9 · Celebration and sticker (3:15–3:30)
 
 **T20 · 5 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¡RAWR! ¡Estampita de pajarito para mi Diario Terrícola!»
@@ -148,7 +153,7 @@ Oryx jumps and roars happily, wiggling his dinosaur tail, Luna wags her tail. St
 Close-up of Oryx's hands opening a small colorful notebook and sticking a shiny gray baby bird sticker on a page, sparkles appear. Static top-down close-up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
-## Escena 10 · ¿Qué aprendimos hoy? (3:30–3:40)
+## Scene 10 · What did we learn today? (3:30–3:40)
 
 **T22 · 10 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¿Qué aprendimos hoy?» / Luna: «¡Que a los animalitos les gusta estar con su familia!» / Oryx: «¡Y que primero le decimos a un adulto!»
@@ -156,12 +161,12 @@ Close-up of Oryx's hands opening a small colorful notebook and sticking a shiny 
 Oryx and Luna sit on the grass under the tree, looking at the camera and talking happily, the bird family in the nest in the background. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
-## Salida
+## Closing
 
-Usar las tomas comunes de `../comun/kling-guia.md`.
+Use the shared shots in `../comun/kling-guia.md`.
 
-## En la edición
+## In the editing
 
-- La canción dura ≈ 1:15: usa las 6 tomas de la Escena 8 (60 s) y completa con partes de las tomas T4, T12 y T13.
-- Agrega el signo de pregunta en la Escena 5 y congela la imagen 3 segundos.
-- La letra de la canción va en pantalla, con letras grandes y redondas.
+- The song lasts ≈ 1:15: use the 6 shots of Scene 8 (60 s) and fill in with parts of shots T4, T12 and T13.
+- Add the question mark in Scene 5 and freeze the image for 3 seconds.
+- Show the song lyrics on screen, with big, round letters.

@@ -98,7 +98,7 @@ Dice que extraña a su mamá.
 
 **Luna** → `T11-luna-1.mp3`
 ```
-¡Ahí viene Rosa!
+¡Guau! ¡Ahí viene Rosa, la veterinaria!
 ```
 
 ## T13

@@ -98,3 +98,32 @@ con tu mamá estarás.
 gentle children's lullaby, Latin American Spanish, soft ukulele, music box, glockenspiel, light bird chirps, sweet child vocals, 80 bpm, tender, simple melody
 ```
 **Title:** `Pío Pío Pajarito - Oryx y Luna`
+
+---
+
+## Extra styles — tender and angelic (paste in the Style box)
+
+1. **Angelic lullaby**
+```
+angelic children's lullaby, Latin American Spanish, soft female child choir, harp, celesta, music box, gentle strings, dreamy and warm, 70 bpm, tender and peaceful
+```
+2. **Music box dream**
+```
+dreamy music box lullaby, Latin American Spanish, sweet whispery child vocals, glockenspiel, soft piano, twinkling chimes, cozy and magical, 72 bpm, very gentle
+```
+3. **Cloud and stars**
+```
+soft celestial kids song, Latin American Spanish, airy angelic child vocals, warm pads, harp arpeggios, light bells, floating and calm, 75 bpm, heavenly and tender
+```
+4. **Acoustic hug**
+```
+tender acoustic children's song, Latin American Spanish, warm child vocals, fingerpicked nylon guitar, soft ukulele, gentle humming, loving and cozy, 85 bpm
+```
+5. **Little orchestra**
+```
+gentle orchestral kids song, Latin American Spanish, sweet child vocals, soft flute, pizzicato strings, celesta, warm cello, storybook feeling, 80 bpm, magical and tender
+```
+6. **Bedtime piano**
+```
+soft bedtime kids song, Latin American Spanish, gentle child vocals, delicate solo piano, soft strings, quiet humming outro, calm and sleepy, 68 bpm, angelic
+```

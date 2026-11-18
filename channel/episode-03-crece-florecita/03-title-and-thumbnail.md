@@ -6,17 +6,17 @@
 ```
 Crece Crece Florecita 🌸 Canción Infantil | Oryx y Luna
 ```
-(54 characters.) *English meaning: "Grow Grow Little Flower 🌸 Kids' Song | Oryx and Luna"*
+(54 characters.)
 
 **Alternatives:**
-- Crece Crece Florecita 🌸 Aprende los Colores *(Learn the Colors)*
-- La Flor Mágica que Cambia de Color 🌸 Canción Infantil *(The Magic Flower That Changes Color)*
+- Crece Crece Florecita 🌸 Aprende los Colores
+- La Flor Mágica que Cambia de Color 🌸 Canción Infantil
 
 **Title for the separate music video:** `Crece Crece Florecita 🌸 Aprende los Colores | Oryx y Luna`
-**Title for the Short:** `¡La flor cambia de color! 🌸 #shorts` *(The flower changes color!)*
+**Title for the Short:** `¡La flor cambia de color! 🌸 #shorts`
 
 ## Thumbnail
-- **Text:** ¡MAGIA! *(MAGIC!)* — thick white letters with a purple outline, at the top.
+- **Text:** ¡MAGIA! — thick white letters with a purple outline, at the top.
 - **Split image:** on the left the gray, droopy flower; on the right the same flower full of colors.
 - **Center:** Oryx with the watering can and his mouth open in amazement.
 - **Bottom right:** Luna jumping happily.

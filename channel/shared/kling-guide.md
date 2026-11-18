@@ -59,8 +59,8 @@ than needed: 2 or 3 characters per shot gives better results.
 ## Step 3 · Generate each shot
 - **Format:** 16:9 for episodes, 9:16 for Shorts.
 - **Length:** what each shot says (5 or 10 s).
-- **Paste only the English text inside the box.** Never paste the Spanish script or the 🎙️
-  lines: Kling draws them as text inside the video and it can't be removed afterwards.
+- **Paste only the English text inside the box** of `07-kling-shots.md`. Never paste anything
+  from the script or from `08-voices.md`: Kling draws it as text inside the video.
 - **Negative prompt** (paste it on every shot):
 ```
 realistic, photorealistic, scary, dark, horror, violence, blood, crying hard, distorted
@@ -109,6 +109,9 @@ Put the shots in order and add what Kling doesn't do well:
   `Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.`
 
 ## Shared shots (opening and closing, generated only once)
+
+These happen **at night**: for these four, upload the official night image
+(`references/oryx-and-luna-official.jpg`) as the reference instead of the day image.
 
 **Opening · S1 · 10 s** · Elements: Saucer, Oryx, Luna
 ```

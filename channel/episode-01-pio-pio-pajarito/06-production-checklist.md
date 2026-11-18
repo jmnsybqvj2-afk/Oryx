@@ -6,7 +6,7 @@
 - [ ] Read the script out loud and time it (≈ 4:00)
 
 ## 2. Audio
-- [ ] Record or generate the voices of Oryx, Luna and Rosa, scene by scene
+- [ ] Generate the voices in ElevenLabs with `08-voices.md` (one box = one audio): Oryx, Luna and Rosa, scene by scene
       (write "Oris" in the voice text so the AI says the name correctly)
 - [ ] Generate the song "Pío, pío, pajarito" (`02-song.md`)
 - [ ] Sound effects: "beep-beep-beep", "RAWR", "woof", Luna's bell, birds chirping, park ambience

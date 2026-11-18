@@ -6,13 +6,13 @@
 ```
 ¡Agua Fresca! 💧 Canción Infantil | Oryx y Luna
 ```
-(46 characters.) *English meaning: "Fresh Water! 💧 Kids' Song | Oryx and Luna"*
+(46 characters.)
 
 **Alternatives:**
-- Luna Tiene Sed 🐶 Canción Infantil | Oryx y Luna *(Luna Is Thirsty)*
-- Cómo Cuidar a tu Perrito en Verano 🐶 Canción para Niños *(How to Care for Your Puppy in Summer)*
+- Luna Tiene Sed 🐶 Canción Infantil | Oryx y Luna
+- Cómo Cuidar a tu Perrito en Verano 🐶 Canción para Niños
 
-**Title for the separate music video:** `¡Agua Fresca! 💧 Canción con Letra | Oryx y Luna` *(Song with Lyrics)*
+**Title for the separate music video:** `¡Agua Fresca! 💧 Canción con Letra | Oryx y Luna`
 **Title for the Short:** `¡Agua Fresca! 💧 #shorts`
 
 ## Thumbnail

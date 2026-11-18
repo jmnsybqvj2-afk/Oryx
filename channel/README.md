@@ -26,14 +26,17 @@ Each episode folder has:
 | `04-description-and-tags.md` | Description ready to paste into YouTube, tags and hashtags |
 | `05-video-prompts.md` | One prompt per scene for other AI video tools |
 | `06-production-checklist.md` | Step-by-step list, from recording voices to publishing |
-| `07-kling-shots.md` | ⭐ **The shots for Kling**: 5 or 10 s each, with Elements, dialogue for Lip Sync and a ready-to-paste prompt |
+| `07-kling-shots.md` | ⭐ **The shots for Kling**: only English prompts, ready to paste (with the negative prompt at the top) |
+| `08-voices.md` | 🎙️ **The dialogue for ElevenLabs**: only Spanish lines, one box per line, with the audio file name |
 | `PROGRESS.md` | Which shots are done and which are missing (episode 1 for now) |
 | `clips/` | Finished clips, named after their scene |
 
 ## Language
-Everything is in English **except the dialogue and the songs**, which stay in Spanish because
+Everything is in English **except the dialogue and the songs**, which are in Spanish because
 that is what the kids hear. The YouTube titles and descriptions are also in Spanish, because the
-channel's viewers read them; each one has an English translation next to it.
+channel's viewers read them.
+- **Kling (video):** `07-kling-shots.md` → only English.
+- **ElevenLabs (voices):** `08-voices.md` → only Spanish.
 
 ## If you use Kling (recommended)
 Start with `shared/kling-guide.md`, then use the `07-kling-shots.md` of each episode. Those

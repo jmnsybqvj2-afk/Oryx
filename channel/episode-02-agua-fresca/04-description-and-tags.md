@@ -1,7 +1,6 @@
 # Description and tags
 
 > The description stays in **Spanish** because it is what viewers read on YouTube.
-> An English translation is included below so you know what it says.
 
 ## Description (copy and paste into YouTube)
 ```
@@ -36,15 +35,6 @@ la hacen feliz de verdad.
 
 #OryxYLuna #CancionesInfantiles #DibujosAnimados
 ```
-
-### English translation (for you only, do not paste)
-💧 It's very hot and Luna has her little tongue out! Oryx offers her his space cookie, but Luna
-doesn't want it. Do you know what she needs? Fresh water and shade!
-🎵 Sing and dance "Fresh water!": glug, glug, glug!
-👨‍👩‍👧 For parents: in this episode kids learn that pets need fresh water and a shady place when
-it's hot.
-🛸 Oryx is a little alien who came to Earth to learn to care for, love and respect animals and
-nature, together with his friend Luna.
 
 ## Tags (in Spanish, for search)
 oryx y luna, canciones infantiles, canción del agua, cuidar a mi perrito, chihuahua,

@@ -1,7 +1,7 @@
 # Opening song and closing song
 
 They are the same in every episode. Generate the music once and reuse it.
-The lyrics stay in **Spanish** (this is what is sung). English translation in *italics*.
+The lyrics are in **Spanish** (this is what is sung).
 
 ## 🛸 Opening — "¡Oryx y Luna!" (15 seconds)
 
@@ -11,8 +11,6 @@ llegó Oryx, el marcianito,
 con Luna, su perrita,
 ¡a la Tierra a explorar!
 ¡Oryx y Luna! ¡RAWR! ¡Guau!
-
-*(Beep, beep, beep! / From the Yellow Planet / came Oryx, the little alien, / with Luna, his puppy, / to explore the Earth! / Oryx and Luna! RAWR! Woof!)*
 
 **On screen:** the flying saucer crosses the night sky and lowers Oryx and Luna with its light beam →
 the antennae glow on "bip, bip" → Oryx waves → Luna jumps beside him → logo on "¡Oryx y Luna!".
@@ -41,8 +39,6 @@ los cuidamos con amor.
 ¡Adiós, adiós, terrícolas,
 pronto volveremos a jugar!
 ¡Bip, bip, bip! ¡Guau! ¡RAWR!
-
-*(Today we learned something new, / we keep it in our heart: / animals and plants / we take care of with love. / Bye, bye, Earthlings, / we'll play again soon! / Beep, beep, beep! Woof! RAWR!)*
 
 **On screen:** Oryx opens the Earthling Diary with the stickers → hands on the heart → they wave
 goodbye next to the saucer, which rises a little and stays floating. It ends with Oryx falling

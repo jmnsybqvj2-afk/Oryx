@@ -3,7 +3,7 @@
 **Style:** happy and bouncy, for dancing (kids' cumbia rhythm).
 **Length:** 1:15. **Tempo:** fast (≈ 120 BPM).
 
-> The lyrics stay in **Spanish** (this is what is sung). English translation in *italics*.
+> The lyrics are in **Spanish** (this is what is sung).
 
 **Verse 1**
 El sol brilla, quema, quema,
@@ -11,23 +11,17 @@ Luna saca la lengüita,
 jadea, jadea, ¡ay, qué pena!,
 ¡necesita agüita!
 
-*(The sun shines, it burns, it burns, / Luna sticks out her little tongue, / she pants and pants, oh, poor thing! / she needs some water!)*
-
 **Chorus**
 ¡Agua, agua, agua fresca!
 ¡Glu, glu, glu! ¡Qué rica está!
 Cuando el sol calienta mucho,
 a Luna le doy de tomar.
 
-*(Water, water, fresh water! / Glug, glug, glug! It's so good! / When the sun gets really hot, / I give Luna a drink.)*
-
 **Verse 2**
 Le ofrecí una galleta
 y Luna dijo que no.
 ¿Qué quiere mi perrita?
 ¡Agüita, ya sé yo!
-
-*(I offered her a cookie / and Luna said no. / What does my puppy want? / Water, now I know!)*
 
 **Chorus**
 
@@ -36,8 +30,6 @@ Y después, a la sombrita,
 bajo el árbol a jugar.
 Agua fresca y sombrita
 la hacen feliz de verdad.
-
-*(And then, into the shade, / under the tree to play. / Fresh water and shade / make her really happy.)*
 
 **Chorus** (×2) + ¡Guau! ¡RAWR!
 

@@ -1,7 +1,6 @@
 # Description and tags
 
 > The description stays in **Spanish** because it is what viewers read on YouTube.
-> An English translation is included below so you know what it says.
 
 ## Description (copy and paste into YouTube)
 ```
@@ -36,15 +35,6 @@ Se pone morada, se pone azul,
 
 #OryxYLuna #CancionesInfantiles #AprendeLosColores
 ```
-
-### English translation (for you only, do not paste)
-🌸 There's a sad gray little flower in the garden! Oryx sings her space rock, but it doesn't work.
-Do you know what she needs? With Luna's help they find out she needs water… and sun!
-🎵 Sing "Grow, grow, little flower" and learn the colors: red, yellow, pink, purple and blue.
-👨‍👩‍👧 For parents: in this episode kids learn that plants are alive and need water and sun, and
-they review the colors.
-🛸 Oryx is a little alien who came to Earth to learn to care for, love and respect animals and
-nature, together with his friend Luna.
 
 ## Tags (in Spanish, for search)
 oryx y luna, canciones infantiles, aprende los colores, canción de la flor, cuidar las plantas,

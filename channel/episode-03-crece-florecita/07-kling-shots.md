@@ -1,21 +1,21 @@
 # Episode 3 · The Sad Little Flower — Shots for Kling
 
-Read `../shared/kling-guide.md` first (Elements, negative prompt, voices and editing).
+## How to use this file (for every shot)
+1. **Reference image:** upload `../shared/references/oryx-and-luna-day.png` (the daytime image).
+2. **Prompt:** copy **only the text inside the gray box** of the shot.
+3. **Negative prompt:** paste this text in Kling's "Negative prompt" field (always the same):
+```
+realistic, photorealistic, scary, dark, horror, violence, blood, crying hard, distorted face, deformed hands, extra limbs, extra fingers, text, letters, watermark, logo, blurry, flickering, fast cuts, strobe lights, subtitles, captions, words, gun, pistol, weapon, holster, knife, police
+```
+4. **Format:** 16:9 and the length the shot says (5 or 10 s).
 
-Each shot is 5 or 10 s long. Copy **only the English text inside the box**. Do not paste the
-Spanish script or the 🎙️ lines: Kling turns them into text drawn inside the video.
+This file has **only video prompts**. The Spanish dialogue for the voices is in `08-voices.md`.
 
-The 🎙️ lines are the **Spanish dialogue** for the voices and Lip Sync (they stay in Spanish
-because that is what the kids hear). The English translation is in `01-script.md`.
-
-**Total new shots:** 20 (+ 4 shared opening and closing shots) · **Episode length:** ≈ 4:00
-
-**Opening:** use the shared shots in `../shared/kling-guide.md`.
+**Opening and closing:** use the shared shots in `../shared/kling-guide.md`.
 
 ## Scene 2 · The garden of colors (0:15–0:35)
 
 **T1 · 10 s** · Elements: Oryx, Luna, Saucer
-🎙️ Lip Sync: Oryx: «¡Luna, mira cuántos colores! ¡Roja, azul, rosa!»
 ```
 A cheerful garden full of red, blue, pink and purple flowers, the flying saucer parked at one side. Oryx walks among the flowers pointing at them amazed, Luna sniffs the flowers. Slow side tracking shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
@@ -28,13 +28,11 @@ In the shadow of the flying saucer there is one sad droopy gray flower in dry so
 ## Scene 3 · Beep-beep! (0:35–0:50)
 
 **T3 · 5 s** · Elements: Oryx
-🎙️ Lip Sync: Oryx: «¡Bip-bip-bip! ¿Una flor? ¡Pero las flores no hablan!»
 ```
 Close-up of Oryx, his antenna tips light up bright red and blink, he looks at a sad gray flower, confused. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T4 · 10 s** · Elements: Oryx, Luna
-🎙️ Lip Sync: Luna: «¡Guau! Las flores no hablan, Oryx… ¡pero sí están vivas!»
 ```
 Luna sits next to a sad droopy gray flower and looks up at Oryx, talking; Oryx listens with wide eyes. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
@@ -42,13 +40,11 @@ Luna sits next to a sad droopy gray flower and looks up at Oryx, talking; Oryx l
 ## Scene 4 · Oryx gets it wrong (0:50–1:10)
 
 **T5 · 10 s** · Elements: Oryx, Luna
-🎙️ Lip Sync: Oryx: «¡Ya sé! ¡Le canto una canción de rock espacial para que se alegre!»
 ```
 Oryx plays a funny air guitar in front of a sad gray flower, his antennae bouncing, cartoon music notes flying around. Luna tilts her head. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T6 · 10 s** · Elements: Oryx
-🎙️ Lip Sync: Oryx: «Mmm… no funcionó.»
 ```
 The gray flower stays droopy. Oryx stops playing, shrugs and looks a little disappointed. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
@@ -56,7 +52,6 @@ The gray flower stays droopy. Oryx stops playing, shrugs and looks a little disa
 ## Scene 5 · Question for the kids (1:10–1:20)
 
 **T7 · 10 s** · Elements: Oryx
-🎙️ Lip Sync: Oryx: «¿Tú sabes qué necesita la florecita?»
 ```
 Oryx looks directly at the camera with a curious face, then waits patiently, blinking. Static medium close-up, empty space on both sides. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
@@ -64,13 +59,11 @@ Oryx looks directly at the camera with a curious face, then waits patiently, bli
 ## Scene 6 · Luna finds the problem (1:20–1:40)
 
 **T8 · 10 s** · Elements: Luna
-🎙️ Lip Sync: Luna: «¡La tierrita está seca!»
 ```
 Luna sniffs dry cracked soil around a droopy gray flower, then looks up. Static close-up, low angle. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T9 · 10 s** · Elements: Oryx, Luna, Saucer
-🎙️ Lip Sync: Luna: «Y mira, Oryx… ¡tu nave le tapa el sol!» / Oryx: «¡Oh, no! ¡Mi nave le estaba haciendo sombra!»
 ```
 The camera reveals the flying saucer blocking the sunlight and casting a shadow on the gray flower. Oryx covers his mouth with both hands, surprised. Slow tilt up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
@@ -83,7 +76,6 @@ The flying saucer floats gently to the side and warm sunlight shines down on a d
 ```
 
 **T11 · 10 s** · Elements: Oryx, Luna
-🎙️ Lip Sync: Oryx: «¡Agüita para ti, florecita! ¡Y mucho sol!»
 ```
 Oryx and Luna water a gray flower with a small watering can, gentle drops fall, the flower slowly starts to lift up, still gray. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
@@ -123,7 +115,6 @@ The whole garden shines with colors, Oryx and Luna dance happily around the beau
 ## Scene 9 · Celebration and sticker (3:15–3:30)
 
 **T18 · 5 s** · Elements: Oryx, Luna
-🎙️ Lip Sync: Oryx: «¡RAWR! ¡Estampita de flor para mi Diario Terrícola!»
 ```
 Oryx jumps and roars happily, wiggling his dinosaur tail, Luna barks. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
@@ -136,7 +127,6 @@ Close-up of Oryx's hands sticking a shiny rainbow flower sticker on a page of a 
 ## Scene 10 · What did we learn today? (3:30–3:40)
 
 **T20 · 10 s** · Elements: Oryx, Luna
-🎙️ Lip Sync: Oryx: «¿Qué aprendimos hoy?» / Luna: «¡Que las plantas también están vivas y necesitan agua y sol!» / Oryx: «¡Y yo aprendí a estacionar mi nave en otro lado!»
 ```
 Oryx and Luna sit next to the bright colorful flower in the sunny garden, looking at the camera and talking happily, Oryx laughs. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```

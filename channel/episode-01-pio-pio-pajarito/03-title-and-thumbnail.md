@@ -7,17 +7,16 @@
 Pío Pío Pajarito 🐦 Canción Infantil | Oryx y Luna
 ```
 (49 characters. On phones it reads "Pío Pío Pajarito 🐦 Canción Infantil", which is the important part.)
-*English meaning: "Tweet Tweet Little Bird 🐦 Kids' Song | Oryx and Luna"*
 
 **Alternatives:**
-- El Pajarito que se Cayó del Nido 🐦 | Oryx y Luna *(The Little Bird Who Fell from the Nest)*
-- Pío Pío Pajarito 🐦 Aprende a Cuidar Animales *(Learn to Care for Animals)*
+- El Pajarito que se Cayó del Nido 🐦 | Oryx y Luna
+- Pío Pío Pajarito 🐦 Aprende a Cuidar Animales
 
-**Title for the separate music video:** `Pío Pío Pajarito 🐦 Canción con Letra | Oryx y Luna` *(Song with Lyrics)*
+**Title for the separate music video:** `Pío Pío Pajarito 🐦 Canción con Letra | Oryx y Luna`
 **Title for the Short:** `Pío Pío Pajarito 🐦 #shorts`
 
 ## Thumbnail
-- **Text:** ¡MAMÁ! *(MOMMY!)* — thick white letters with a dark outline, top right.
+- **Text:** ¡MAMÁ! — thick white letters with a dark outline, top right.
 - **Center:** the gray baby bird on the grass looking up at its mother in the nest.
 - **Left:** Oryx with his hands on his cheeks, surprised, antennae lit up red.
 - **Right:** Luna pointing at the nest with her paw.

@@ -6,7 +6,7 @@
 - [ ] Read the script out loud and time it (≈ 4:00)
 
 ## 2. Audio
-- [ ] Record or generate the voices of Oryx and Luna, scene by scene
+- [ ] Generate the voices in ElevenLabs with `08-voices.md` (one box = one audio): Oryx and Luna, scene by scene
       (write "Oris" in the voice text so the AI says the name correctly)
 - [ ] Generate the song "Crece, crece, florecita" (`02-song.md`)
 - [ ] Sound effects: "beep-beep-beep", "RAWR", "woof", Luna's bell, "bzzz-boing" guitar, "plic, plic" water drops, magic sparkles, garden ambience

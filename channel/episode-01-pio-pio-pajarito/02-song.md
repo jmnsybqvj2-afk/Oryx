@@ -2,7 +2,7 @@
 
 **Style:** soft and tender, like a lullaby. **Length:** 1:00–1:15. **Tempo:** slow (≈ 80 BPM).
 
-> The lyrics stay in **Spanish** (this is what is sung). English translation in *italics*.
+> The lyrics are in **Spanish** (this is what is sung).
 
 **Verse 1**
 Oryx encontró en el suelo
@@ -10,15 +10,11 @@ un pajarito sin vuelo.
 Sus antenitas brillaron,
 ¡bip, bip, bip!, le avisaron.
 
-*(Oryx found on the ground / a little bird that couldn't fly. / His antennae lit up, / beep, beep, beep, they warned him.)*
-
 **Chorus**
 Pío, pío, pajarito,
 no estés triste, chiquitito,
 a tu nido volverás,
 con tu mamá estarás.
-
-*(Tweet, tweet, little bird, / don't be sad, little one, / you'll go back to your nest, / you'll be with your mommy.)*
 
 **Verse 2**
 Luna ladra: "¡Guau, cuidado!
@@ -26,12 +22,9 @@ Busca un grande a tu lado."
 Con cariño lo subieron
 y a su nido lo volvieron.
 
-*(Luna barks: "Woof, be careful! / Find a grown-up by your side." / With love they lifted him up / and put him back in his nest.)*
-
 **Chorus** (×2)
 
 **Ending (whispered):** Pío, pío… ¡ya está con mamá!
-*(Tweet, tweet… he's with mommy now!)*
 
 ## Moves for the kids
 - Arms like wings during the chorus.

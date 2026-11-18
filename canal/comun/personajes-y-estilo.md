@@ -15,6 +15,9 @@ redondos con ojos grandes y expresivos. Se siente acogedor y tierno.
 - Nada de miedo ni peligro real: los problemas se resuelven siempre con cariño.
 
 ## 🟡 Oryx, el marcianito (según la imagen oficial)
+- **Nombre:** se escribe **Oryx** (con X) y se pronuncia **"Oris"**.
+  Al generar voces con IA, escribe "Oris" en el texto del diálogo para que lo pronuncie bien
+  (si escribes "Oryx", la voz podría decir "Óriks"). En títulos, descripciones y pantalla, siempre "Oryx".
 - Piel amarilla, mejillas rosadas, ojos grandes **azules** con brillitos, sonrisa abierta.
 - **Dos antenitas** de palito gris con **bolitas amarillas**, que salen por arriba de la capucha.
   Cuando un animal necesita ayuda, las bolitas **brillan en rojo** y suenan "¡bip-bip-bip!".

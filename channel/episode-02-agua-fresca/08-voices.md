@@ -11,7 +11,7 @@ Use these audios for Kling's Lip Sync or put them on top of the clip in CapCut.
 
 **Narrator** (your cloned voice) → `narrator-welcome.mp3`
 ```
-¡Hola, amiguitos! ¡Bienvenidos! Hoy hace mucho calor y Luna necesita ayuda. Vamos a aprender qué necesitan nuestras mascotas cuando hace calor, y también las palabras calor y frío, sol y sombra. Papás: hoy sus hijos aprenderán que las mascotas siempre necesitan agua fresca y un lugar con sombra. ¿Listos? ¡Vamos!
+¡Hola, amiguitos! Bienvenidos a las aventuras de Oris y Luna. Hoy su misión será ayudar a Luna, que tiene mucho calor, y aprenderemos: calor y frío, sol y sombra. Papás: hoy enseñamos a cuidar a las mascotas. ¿Listos? ¡Vamos!
 ```
 
 ## T1
@@ -112,5 +112,5 @@ Cuando hace calor, los perritos necesitamos agua.
 
 **Narrator** (your cloned voice) → `narrator-reflection.mp3`
 ```
-Recuerda, amiguito: cuando hace calor, tú también necesitas tomar agua, igual que Luna. Y si tienes una mascota, revisa con un adulto que siempre tenga su platito con agua fresca. ¡Hasta la próxima aventura!
+Recuerda, amiguito: cuando hace calor, toma agua, igual que Luna. ¡Hasta la próxima aventura!
 ```

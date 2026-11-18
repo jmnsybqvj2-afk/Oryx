@@ -11,7 +11,7 @@ Use these audios for Kling's Lip Sync or put them on top of the clip in CapCut.
 
 **Narrator** (your cloned voice) → `narrator-welcome.mp3`
 ```
-¡Hola, amiguitos! ¡Bienvenidos! Hoy Oris y Luna van a ayudar a una florecita muy triste, ¡y vamos a aprender los colores! Papás: en este episodio sus hijos aprenderán que las plantas están vivas y necesitan agua y sol, y repasarán los colores. ¿Listos? ¡Vamos!
+¡Hola, amiguitos! Bienvenidos a las aventuras de Oris y Luna. Hoy su misión será ayudar a una florecita triste, ¡y aprenderemos los colores! Papás: hoy enseñamos que las plantas están vivas. ¿Listos? ¡Vamos!
 ```
 
 ## T1
@@ -110,5 +110,5 @@ Y mira, Oris… ¡tu nave le tapa el sol!
 
 **Narrator** (your cloned voice) → `narrator-reflection.mp3`
 ```
-Recuerda, amiguito: las plantas también están vivas. Con la ayuda de un adulto, puedes regar las plantas de tu casa. ¡Y no olvides lavarte las manos después de jugar en el jardín! ¡Hasta la próxima aventura!
+Recuerda, amiguito: las plantas también están vivas. ¡Y lávate las manos después de jugar! ¡Hasta la próxima aventura!
 ```

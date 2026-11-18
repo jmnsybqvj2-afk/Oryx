@@ -11,7 +11,7 @@ Use these audios for Kling's Lip Sync or put them on top of the clip in CapCut.
 
 **Narrator** (your cloned voice) → `narrator-welcome.mp3`
 ```
-¡Hola, amiguitos! ¡Bienvenidos! Hoy Oris y Luna van a encontrar un pajarito que necesita ayuda. Vamos a aprender a cuidar a los animales y también palabras nuevas: pájaro, nido y plumas. Papás: en este episodio sus hijos aprenderán que, si encuentran un animalito que necesita ayuda, primero se lo dicen a un adulto. ¿Listos? ¡Vamos!
+¡Hola, amiguitos! Bienvenidos a las aventuras de Oris y Luna. Hoy su misión será rescatar a un pajarito, y aprenderemos palabras nuevas: pájaro, nido y plumas. Papás: hoy enseñamos a pedir ayuda a un adulto. ¿Listos? ¡Vamos!
 ```
 
 ## T1
@@ -146,5 +146,5 @@ Dice que extraña a su mamá.
 
 **Narrator** (your cloned voice) → `narrator-reflection.mp3`
 ```
-Recuerda, amiguito: a los animalitos les gusta estar con su familia, igual que a ti. Si encuentras uno que necesita ayuda, díselo a un adulto. Y antes de dormir, no olvides cepillarte los dientes y darle un abrazo a tu familia. ¡Hasta la próxima aventura!
+Recuerda, amiguito: si un animalito necesita ayuda, díselo a un adulto. ¡Y no olvides cepillarte los dientes! ¡Hasta la próxima aventura!
 ```

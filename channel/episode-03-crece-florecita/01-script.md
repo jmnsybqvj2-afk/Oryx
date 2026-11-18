@@ -15,7 +15,7 @@ See `../shared/opening-and-closing-songs.md`.
 
 ### Scene 1b · Narrator welcome (≈ 10 s)
 [ON SCREEN: the flying saucer and Luna clip (`../shared/presentation/flying-saucer-and-luna-16x9.mp4`) or the official image with a slow zoom. No new Kling shot needed.]
-**Narrator:** Hello, little friends! Welcome to the adventures of Oryx and Luna. Today their mission is to help a sad little flower, and we'll learn the colors! Parents: today we teach that plants are alive. Ready? Let's go!
+**Narrator:** Hello, little friends! Welcome to the adventures of Oryx and Luna. Today their mission is to help a sad little flower, and we'll learn the colors! Parents: remember to keep an eye on the content your children watch; it's important. And now, let's play!
 
 ### Scene 2 · 0:15–0:35 · The garden of colors
 [ON SCREEN: a garden full of colorful flowers. Oryx's flying saucer is parked next to it.]

@@ -11,7 +11,7 @@ Use these audios for Kling's Lip Sync or put them on top of the clip in CapCut.
 
 **Narrator** (your cloned voice) → `narrator-welcome.mp3`
 ```
-¡Hola, amiguitos! Bienvenidos a las aventuras de Oris y Luna. Hoy su misión será ayudar a Luna, que tiene mucho calor, y aprenderemos: calor y frío, sol y sombra. Papás: hoy enseñamos a cuidar a las mascotas. ¿Listos? ¡Vamos!
+¡Hola, amiguitos! Bienvenidos a las aventuras de Oris y Luna. Hoy su misión será ayudar a Luna, que tiene mucho calor, y aprenderemos: calor y frío, sol y sombra. Papás: recuerden estar pendientes del contenido que ven sus hijos; es importante. ¡Y ahora, vamos a jugar!
 ```
 
 ## T1

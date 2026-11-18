@@ -127,3 +127,28 @@ gentle orchestral kids song, Latin American Spanish, sweet child vocals, soft fl
 ```
 soft bedtime kids song, Latin American Spanish, gentle child vocals, delicate solo piano, soft strings, quiet humming outro, calm and sleepy, 68 bpm, angelic
 ```
+
+---
+
+## Extra styles — sweet but happy, with rhythm (paste in the Style box)
+
+1. **Happy ukulele**
+```
+sweet and happy children's song, Latin American Spanish, cheerful child vocals, bouncy ukulele, glockenspiel, hand claps, light percussion, playful and bright, 110 bpm, catchy chorus
+```
+2. **Bouncy music box**
+```
+upbeat kids song, Latin American Spanish, sweet child vocals, music box melody, ukulele, marimba, claps, bouncy rhythm, joyful and tender, 115 bpm, easy to sing along
+```
+3. **Little dance party**
+```
+fun children's dance song, Latin American Spanish, happy child vocals, ukulele, xylophone, soft drums, claps and kids shouting "hey!", bouncy and cheerful, 120 bpm, sweet and catchy
+```
+4. **Sunny marimba**
+```
+bright sunny kids song, Latin American Spanish, cute child vocals, marimba, ukulele, shakers, light bongos, happy whistling, playful and warm, 112 bpm, cheerful
+```
+5. **Jumping and clapping**
+```
+energetic but sweet preschool song, Latin American Spanish, cheerful child choir, glockenspiel, ukulele, claps, stomps, bouncy bass, joyful sing-along, 118 bpm, tender and fun
+```

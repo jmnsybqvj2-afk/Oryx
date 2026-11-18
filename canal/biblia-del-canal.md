@@ -1,5 +1,8 @@
 # 🛸 Oryx y Luna — Biblia del canal
 
+> La versión detallada y lista para producir de cada episodio está en las carpetas
+> `episodio-01-…`, `episodio-02-…` y `episodio-03-…`. Ver `README.md`.
+
 Canal infantil (0 a 6 años). Oryx, un marcianito, llega a la Tierra para aprender a cuidar,
 amar y respetar a los animales y a la naturaleza, junto con su amiga, la chihuahua Luna.
 

@@ -5,8 +5,8 @@ learn the colors.
 **Characters:** Oryx and Luna.
 **Place:** a garden with colorful flowers, next to Oryx's flying saucer.
 
-> Dialogue is in **Spanish** (it is what the kids hear in the video).
-> To generate the voices, use `08-voices.md`.
+> This file is **for reading the story only** (not for Kling, not for ElevenLabs).
+> The dialogue here is the English version. The **Spanish dialogue that is recorded** is in `08-voices.md`.
 
 ---
 
@@ -15,51 +15,51 @@ See `../shared/opening-and-closing-songs.md`.
 
 ### Scene 2 · 0:15–0:35 · The garden of colors
 [ON SCREEN: a garden full of colorful flowers. Oryx's flying saucer is parked next to it.]
-**Oryx:** ¡Luna, mira cuántos colores! ¡Roja, azul, rosa!
+**Oryx:** Luna, look at all the colors! Red, blue, pink!
 [ON SCREEN: in a corner, in the saucer's shadow, there is a droopy gray flower.]
 
 ### Scene 3 · 0:35–0:50 · Beep-beep!
 [ON SCREEN: Oryx's antennae light up red.]
-**Oryx:** ¡Bip-bip-bip! ¿Una flor? ¡Pero las flores no hablan! ¿Por qué suenan mis antenitas?
-**Luna:** ¡Guau! Las flores no hablan, Oryx… ¡pero sí están vivas!
+**Oryx:** Beep-beep-beep! A flower? But flowers don't talk! Why are my antennae beeping?
+**Luna:** Woof! Flowers don't talk, Oryx… but they are alive!
 
 ### Scene 4 · 0:50–1:10 · Oryx gets it wrong
-**Oryx:** ¡Ya sé! ¡Le canto una canción de rock espacial para que se alegre!
+**Oryx:** I know! I'll sing her a space rock song to cheer her up!
 [ON SCREEN: Oryx plays an imaginary guitar with his antennae; a funny "bzzz-boing!" sound plays. The flower stays just as sad.]
-**Oryx:** Mmm… no funcionó.
+**Oryx:** Hmm… that didn't work.
 
 ### Scene 5 · 1:10–1:20 · Question for the kids
 [ON SCREEN: Oryx looks at the camera. Three options appear: 🎸 guitar, 💧 water, ☀️ sun.]
-**Oryx:** ¿Tú sabes qué necesita la florecita?
+**Oryx:** Do you know what the little flower needs?
 [ON SCREEN: 3-second pause. Then the 💧 and the ☀️ glow.]
 
 ### Scene 6 · 1:20–1:40 · Luna finds the problem
 [ON SCREEN: Luna sniffs the dry, cracked soil.]
-**Luna:** ¡La tierrita está seca! Y mira, Oryx… ¡tu nave le tapa el sol!
-**Oryx:** ¡Oh, no! ¡Mi nave le estaba haciendo sombra!
+**Luna:** The soil is dry! And look, Oryx… your ship is blocking her sun!
+**Oryx:** Oh, no! My ship was putting her in the shade!
 
 ### Scene 7 · 1:40–2:00 · Water and sun
 [ON SCREEN: Oryx gets into the saucer and moves it a little. The sun shines on the flower. Then they water it together with a watering can.]
-**Oryx:** ¡Agüita para ti, florecita! ¡Y mucho sol!
+**Oryx:** Water for you, little flower! And lots of sun!
 [ON SCREEN: the flower slowly starts to lift up, still gray.]
 
-### Scene 8 · 2:00–3:15 · Song "Crece, crece, florecita"
+### Scene 8 · 2:00–3:15 · Episode song
 See `02-song.md`. Images for each part:
 - **Verse 1:** memory of the gray flower and the space rock that didn't work.
-- **Verse 2:** Luna sniffs the soil and little drops fall: "plic, plic, plic".
+- **Verse 2:** Luna sniffs the soil and little drops fall: "drip, drip, drip".
 - **Chorus:** the flower grows little by little; Oryx and Luna rise up with it.
 - **Colors verse:** the flower changes color with each word: red, yellow, pink, purple and blue.
   It ends full of colors.
 - **Final chorus:** the whole garden shines; Oryx and Luna dance.
 
 ### Scene 9 · 3:15–3:30 · Celebration and sticker
-**Oryx:** ¡RAWR! ¡Estampita de flor para mi Diario Terrícola!
+**Oryx:** RAWR! A flower sticker for my Earthling Diary!
 [ON SCREEN: he sticks in a sparkly, colorful flower sticker.]
 
 ### Scene 10 · 3:30–3:40 · What did we learn today?
-**Oryx:** ¿Qué aprendimos hoy?
-**Luna:** ¡Que las plantas también están vivas y necesitan agua y sol!
-**Oryx:** ¡Y yo aprendí a estacionar mi nave en otro lado!
+**Oryx:** What did we learn today?
+**Luna:** That plants are alive too and need water and sun!
+**Oryx:** And I learned to park my ship somewhere else!
 [ON SCREEN: Oryx laughs.]
 
 ### Scene 11 · 3:40–4:00 · Closing song

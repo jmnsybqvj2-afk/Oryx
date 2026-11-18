@@ -4,7 +4,11 @@ Lee primero `../comun/kling-guia.md` (Elements, prompt negativo, voces y edició
 
 ⚠️ **Tomas con Rosa (T11, T12, T13, T17, T18):** antes de usarlas, revisa que Rosa no lleve
 nada parecido a un arma en el cinturón. Si sale con algo así, borra la toma y genera otra.
-Cada toma dura 5 o 10 s. Copia el prompt completo tal cual.
+Cada toma dura 5 o 10 s. Copia **solo el texto en inglés del recuadro**. No pegues el guion en
+español ni las líneas 🎙️: Kling las convierte en letreros dentro del video.
+
+🐦 **El pajarito siempre es gris** (ver [PAJARITO] en `../comun/personajes-y-estilo.md`).
+Avance de las tomas: ver `PROGRESO.md`.
 
 **Total de tomas nuevas:** 22 (+ 4 tomas comunes de entrada y salida) · **Duración del episodio:** ≈ 4:00
 
@@ -35,7 +39,7 @@ Close-up of Oryx in the park, his antenna tips light up bright red and blink, he
 **T4 · 10 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¡Ahí! ¡Una bolita con plumas!»
 ```
-Oryx and Luna look around the park, then spot a tiny fluffy baby bird sitting alone on the grass, chirping softly. Oryx points at it. Slow pan from the characters to the baby bird. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Oryx and Luna look around the park, then spot a tiny fluffy gray baby bird sitting alone on the grass, chirping softly. Oryx points at it. Slow pan from the characters to the gray baby bird. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 4 · Oryx se equivoca (0:45–1:05)
@@ -43,13 +47,13 @@ Oryx and Luna look around the park, then spot a tiny fluffy baby bird sitting al
 **T5 · 10 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¡Ya sé! ¡Me lo llevo a mi nave para jugar con él todo el día!»
 ```
-Oryx leans toward a tiny baby bird on the grass with excited open arms. Luna gently steps in front of the bird and shakes her head no. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Oryx leans toward a tiny gray baby bird on the grass with excited open arms. Luna gently steps in front of the bird and shakes her head no. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T6 · 10 s** · Elements: Oryx, Luna
 🎙️ Lip Sync: Oryx: «¿No? Pero… ¡es tan chiquito y bonito!»
 ```
-Oryx stops, looks confused and scratches his hood, Luna sits calmly next to the baby bird. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Oryx stops, looks confused and scratches his hood, Luna sits calmly next to the gray baby bird. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 5 · Pregunta a los niños (1:05–1:15)
@@ -65,13 +69,13 @@ Oryx looks directly at the camera with a curious face and one finger on his chin
 **T8 · 5 s** · Elements: Luna
 🎙️ Lip Sync: Luna: «Dice que extraña a su mamá.»
 ```
-Luna listens to a tiny baby bird on the grass with her big ears up, then turns to the camera and talks. Static close-up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Luna listens to a tiny gray baby bird on the grass with her big ears up, then turns to the camera and talks. Static close-up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T9 · 10 s** · Elements: Luna
 🎙️ Lip Sync: Luna: «¡Su casita está ahí arriba!»
 ```
-The camera slowly moves up a big tree trunk to a nest on a low branch where a mother bird looks down and chirps. Slow tilt up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+The camera slowly moves up a big tree trunk to a nest on a low branch where a gray mother bird looks down and chirps. Slow tilt up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T10 · 5 s** · Elements: Oryx
@@ -90,7 +94,7 @@ Rosa, an unarmed park ranger with a small backpack, walks over across the park s
 
 **T12 · 10 s** · Elements: Rosa
 ```
-Rosa puts on gloves and very gently lifts a tiny baby bird with both hands and places it back into a nest on a low tree branch, the mother bird chirps happily. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Rosa puts on gloves and very gently lifts a tiny gray baby bird with both hands and places it back into a nest on a low tree branch, the gray mother bird chirps happily. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T13 · 10 s** · Elements: Oryx, Luna, Rosa
@@ -103,12 +107,12 @@ Rosa kneels down and talks kindly to Oryx and Luna, then gives a thumbs up; Oryx
 
 **T14 · 10 s** · Elements: Oryx, Luna
 ```
-Dreamy soft-focus scene: Oryx and Luna find a baby bird in the grass, music notes float in the air. Slow push in, soft glow. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Dreamy soft-focus scene: Oryx and Luna find a gray baby bird in the grass, music notes float in the air. Slow push in, soft glow. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T15 · 10 s** · Elements: —
 ```
-A tiny fluffy baby bird cuddles with its mother in a cozy nest, little hearts float around them. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+A tiny fluffy gray baby bird cuddles with its mother in a cozy nest, little hearts float around them. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T16 · 10 s** · Elements: Oryx, Luna
@@ -118,7 +122,7 @@ Oryx and Luna flap their arms and paws like wings under a big tree, smiling and 
 
 **T17 · 10 s** · Elements: Luna, Rosa
 ```
-Luna barks happily while Rosa gently places a baby bird back in the nest. Slow pan. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Luna barks happily while Rosa gently places a gray baby bird back in the nest. Slow pan. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T18 · 10 s** · Elements: Oryx, Luna, Rosa
@@ -128,7 +132,7 @@ Oryx, Luna and Rosa dance flapping their arms like wings under the tree, birds c
 
 **T19 · 10 s** · Elements: Oryx, Luna
 ```
-Oryx and Luna wave up at the bird family in the nest, the mother bird and baby chirp back. Slow tilt from the characters up to the nest. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Oryx and Luna wave up at the bird family in the nest, the gray mother bird and baby chirp back. Slow tilt from the characters up to the nest. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 9 · Celebración y estampita (3:15–3:30)
@@ -141,7 +145,7 @@ Oryx jumps and roars happily, wiggling his dinosaur tail, Luna wags her tail. St
 
 **T21 · 10 s** · Elements: Oryx
 ```
-Close-up of Oryx's hands opening a small colorful notebook and sticking a shiny baby bird sticker on a page, sparkles appear. Static top-down close-up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Close-up of Oryx's hands opening a small colorful notebook and sticking a shiny gray baby bird sticker on a page, sparkles appear. Static top-down close-up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Escena 10 · ¿Qué aprendimos hoy? (3:30–3:40)

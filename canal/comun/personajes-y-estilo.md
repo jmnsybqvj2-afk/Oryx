@@ -1,7 +1,9 @@
 # Personajes y estilo visual
 
-**La imagen oficial es una sola: `referencias/oryx-y-luna-oficial.jpg`.** Así se ven Oryx y
-Luna, siempre. Úsala como referencia en Kling (Elements).
+**La imagen oficial es `referencias/oryx-y-luna-oficial.jpg`.** Así se ven Oryx y Luna, siempre.
+Úsala como referencia en Kling (Elements).
+- `referencias/oryx-y-luna-dia.png` → los mismos personajes **de día**. Úsala como referencia o
+  primer cuadro para las escenas de día (parque, jardín).
 - `referencias/avatar-canal-800.jpg` → foto de perfil del canal (recortada de la imagen oficial).
 - `avatar-canal-800.jpg` → foto de perfil del canal (cara de Oryx, lista para YouTube).
 
@@ -78,6 +80,12 @@ with a small golden bell.
 ```
 A classic cartoon flying saucer, lavender-gray metal, round glowing yellow lights around the
 rim, light blue glass dome on top with a tiny antenna, warm yellow light beam shining down.
+```
+
+**[PAJARITO]** (episodio 1 — siempre el mismo pajarito y la misma mamá)
+```
+A small fluffy gray baby bird with a round body, tiny orange beak and big shiny black eyes;
+its gray mother bird has a light gray belly and an orange beak.
 ```
 
 **[ROSA]**

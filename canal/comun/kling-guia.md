@@ -72,7 +72,7 @@ No adjuntes más de los necesarios: con 2 o 3 personajes por toma los resultados
 ```
 realistic, photorealistic, scary, dark, horror, violence, blood, crying hard, distorted
 face, deformed hands, extra limbs, extra fingers, text, letters, watermark, logo, blurry,
-flickering, fast cuts, strobe lights, gun, pistol, weapon, holster, knife, police
+flickering, fast cuts, strobe lights, subtitles, captions, words, gun, pistol, weapon, holster, knife, police
 ```
 - Genera 2 o 3 versiones de cada toma y quédate con la mejor.
 

@@ -43,9 +43,9 @@ redondos con ojos grandes y expresivos. Se siente acogedor y tierno.
 Platillo volador clásico color lavanda grisáceo, con lucecitas amarillas redondas alrededor,
 cúpula de vidrio azul claro con una antenita arriba y un rayo de luz amarilla cálida por abajo.
 
-## 👩 Rosa, la guardaparques (episodio 1)
-Señora amable con uniforme verde, sombrero de guardaparques, guantes y una mochilita.
-**Nunca lleva armas** (ni pistola ni funda en el cinturón): es una cuidadora de la naturaleza, no policía. Aparece cuando hay que
+## 👩‍⚕️ Rosa, la veterinaria (episodio 1)
+Mujer joven y amable, cabello castaño largo, bata blanca de veterinaria sobre camisa azul clara,
+guantes azules y estetoscopio. Es la doctora de los animales. Aparece cuando hay que
 enseñar que **se pide ayuda a un adulto**.
 
 ---
@@ -90,8 +90,8 @@ its gray mother bird has a light gray belly and an orange beak.
 
 **[ROSA]**
 ```
-Rosa: a kind middle-aged park ranger woman, green ranger uniform, ranger hat, gardening
-gloves, small backpack, warm smile, unarmed, no weapons, no holster.
+Rosa: a kind young woman veterinarian with long brown hair, white vet coat over a light blue
+shirt, blue gloves, a stethoscope around her neck, warm smile.
 ```
 
 **[ANTENAS ROJAS]** (para el momento "¡bip-bip!")

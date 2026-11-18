@@ -2,8 +2,8 @@
 
 Lee primero `../comun/kling-guia.md` (Elements, prompt negativo, voces y edición).
 
-⚠️ **Tomas con Rosa (T11, T12, T13, T17, T18):** antes de usarlas, revisa que Rosa no lleve
-nada parecido a un arma en el cinturón. Si sale con algo así, borra la toma y genera otra.
+⚠️ **Tomas con Rosa (T11, T12, T13, T17, T18):** Rosa es **veterinaria** (bata blanca, guantes azules). Revisa que salga
+siempre así y sin nada parecido a un arma. Si no, borra la toma y genera otra.
 Cada toma dura 5 o 10 s. Copia **solo el texto en inglés del recuadro**. No pegues el guion en
 español ni las líneas 🎙️: Kling las convierte en letreros dentro del video.
 
@@ -89,7 +89,7 @@ Oryx looks up at the tree, surprised and happy, hands on his cheeks. Static medi
 **T11 · 5 s** · Elements: Oryx, Luna, Rosa
 🎙️ Lip Sync: Oryx: «¡Hay que pedir ayuda a un adulto!» / Luna: «¡Ahí viene Rosa!»
 ```
-Rosa, an unarmed park ranger with a small backpack, walks over across the park smiling and waving, Oryx and Luna wave back. Wide static shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Rosa, a kind veterinarian in a white vet coat, walks over across the park smiling and waving, Oryx and Luna wave back. Wide static shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T12 · 10 s** · Elements: Rosa
@@ -98,7 +98,7 @@ Rosa puts on gloves and very gently lifts a tiny gray baby bird with both hands 
 ```
 
 **T13 · 10 s** · Elements: Oryx, Luna, Rosa
-🎙️ Lip Sync: Rosa: «Muy bien hecho, Oryx. Cuando encuentran un animalito, primero se lo dicen a un adulto.» / Oryx: «¡Gracias, Rosa!»
+🎙️ Lip Sync: Oryx: «¿Qué es una veterinaria?» / Rosa: «¡Es la doctora de los animales! Muy bien hecho, Oryx. Cuando encuentran un animalito, primero se lo dicen a un adulto.» / Oryx: «¡Gracias, Rosa!»
 ```
 Rosa kneels down and talks kindly to Oryx and Luna, then gives a thumbs up; Oryx smiles and says thank you. Static medium shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```

@@ -62,7 +62,7 @@ intento fallido antes de la solución.
 [EN PANTALLA: zoom al nido en el árbol, mamá pájaro mirando]
 
 **Oryx:** ¡Hay que pedir ayuda a un adulto! Los pajaritos no se agarran solos.
-[EN PANTALLA: un adulto (guardaparques) lo devuelve al nido con cuidado]
+[EN PANTALLA: un adulto (Rosa, la veterinaria) lo devuelve al nido con cuidado]
 
 🎵 *"Si un animalito ves, primero miro bien,
 le pido ayuda a un adulto, y lo cuido yo también."* (×2)

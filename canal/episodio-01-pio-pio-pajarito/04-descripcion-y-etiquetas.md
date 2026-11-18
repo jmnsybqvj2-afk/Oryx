@@ -2,7 +2,7 @@
 
 ## Descripción (copiar y pegar)
 ```
-🐦 ¡Oryx encontró un pajarito que se cayó de su nido! ¿Qué necesita el pajarito? Con la ayuda de Luna, su perrita chihuahua, y de Rosa la guardaparques, Oryx aprende que a los animalitos les gusta estar con su familia.
+🐦 ¡Oryx encontró un pajarito que se cayó de su nido! ¿Qué necesita el pajarito? Con la ayuda de Luna, su perrita chihuahua, y de Rosa la veterinaria, Oryx aprende que a los animalitos les gusta estar con su familia.
 
 🎵 Canta y baila "Pío, pío, pajarito", ¡y mueve tus alitas!
 

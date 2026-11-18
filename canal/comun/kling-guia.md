@@ -28,8 +28,8 @@ plain light green background.
 
 **Rosa** (no tiene imagen todavía; sube la imagen oficial como referencia de estilo)
 ```
-Character reference sheet of Rosa, a kind middle-aged park ranger woman, green ranger
-uniform, ranger hat, gardening gloves, small backpack, warm smile, unarmed, no weapons, no holster.
+Character reference sheet of Rosa, a kind young woman veterinarian with long brown hair,
+white vet coat over a light blue shirt, blue gloves, a stethoscope around her neck, warm smile.
 Front view and side view. Same
 children's storybook illustration style as the reference image, hand-painted gouache
 texture, plain light yellow background.

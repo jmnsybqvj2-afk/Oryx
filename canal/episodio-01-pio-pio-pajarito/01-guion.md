@@ -2,7 +2,7 @@
 
 **Duración total:** ≈ 4:00 · **Lección:** a los animalitos les gusta estar con su familia; si
 encuentras un animal que necesita ayuda, primero se lo dices a un adulto.
-**Personajes:** Oryx, Luna, Rosa la guardaparques, el pajarito y su mamá.
+**Personajes:** Oryx, Luna, Rosa la veterinaria, el pajarito y su mamá.
 **Lugar:** un parque con un árbol grande.
 
 ---
@@ -41,9 +41,10 @@ Ver `../comun/cancion-entrada-salida.md`.
 
 ### Escena 7 · 1:35–2:00 · Pedir ayuda a un adulto
 **Oryx:** ¡Hay que pedir ayuda a un adulto!
-**Luna:** ¡Guau! ¡Ahí viene Rosa, la guardaparques!
+**Luna:** ¡Guau! ¡Ahí viene Rosa, la veterinaria!
 [EN PANTALLA: llega Rosa. Se pone los guantes, levanta al pajarito con mucho cuidado y lo devuelve al nido.]
-**Rosa:** Muy bien hecho, Oryx. Cuando encuentran un animalito, primero se lo dicen a un adulto.
+**Oryx:** ¿Qué es una veterinaria?
+**Rosa:** ¡Es la doctora de los animales! Muy bien hecho, Oryx. Cuando encuentran un animalito, primero se lo dicen a un adulto.
 **Oryx:** ¡Gracias, Rosa!
 
 ### Escena 8 · 2:00–3:15 · Canción "Pío, pío, pajarito"

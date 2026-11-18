@@ -32,7 +32,7 @@ Las tomas (T1, T2…) son las de `07-kling-tomas.md`.
 ### Por qué hay que rehacer la toma de Rosa (T12)
 1. Tiene **letreros dentro del video** ("¡RAWR! (feliz)…" y uno ilegible "[EN PANTALLA…]").
    Pasó porque se pegó el guion en español en Kling. No se pueden borrar después.
-2. Rosa salió con **bata blanca** (de doctora) en vez de su uniforme verde de guardaparques.
+2. Rosa ahora es **veterinaria**, así que la bata blanca está bien. El único problema son los letreros.
 
 ## 🎙️ Audio (todavía no empieza)
 - [ ] Voces de Oryx, Luna y Rosa (ElevenLabs)

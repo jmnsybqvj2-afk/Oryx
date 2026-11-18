@@ -14,7 +14,7 @@ See `../shared/opening-and-closing-songs.md`.
 
 ### Scene 1b · Narrator welcome (≈ 10 s)
 [ON SCREEN: the flying saucer and Luna clip (`../shared/presentation/flying-saucer-and-luna-16x9.mp4`) or the official image with a slow zoom. No new Kling shot needed.]
-**Narrator:** Hello, little friends! Welcome to the adventures of Oryx and Luna. Today their mission is to help Luna, who is very hot, and we'll learn new words like hot and cold, sun and shade. Parents: remember to keep an eye on the content your children watch; it's important. And now, let's play!
+**Narrator:** Hello, little friends! Welcome to the adventures of Oryx and Luna. Today their mission is to help Luna, who is very hot, and we'll learn new words like hot and cold, sun and shade. Parents: remember to keep an eye on the content your children watch; it's important. And now, let's learn by playing!
 
 ### Scene 2 · 0:15–0:35 · Playing ball
 [ON SCREEN: garden with a big sun. Oryx throws a red ball; Luna runs and brings it back.]

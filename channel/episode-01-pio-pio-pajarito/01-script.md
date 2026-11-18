@@ -15,7 +15,7 @@ See `../shared/opening-and-closing-songs.md`.
 
 ### Scene 1b · Narrator welcome (≈ 10 s)
 [ON SCREEN: the flying saucer and Luna clip (`../shared/presentation/flying-saucer-and-luna-16x9.mp4`) or the official image with a slow zoom. No new Kling shot needed.]
-**Narrator:** Hello, little friends! Welcome to the adventures of Oryx and Luna. Today their mission is to rescue a baby bird, and we'll learn new words like bird, nest and feathers. Parents: remember to keep an eye on the content your children watch; it's important. And now, let's play!
+**Narrator:** Hello, little friends! Welcome to the adventures of Oryx and Luna. Today their mission is to rescue a baby bird, and we'll learn new words like bird, nest and feathers. Parents: remember to keep an eye on the content your children watch; it's important. And now, let's learn by playing!
 
 ### Scene 2 · 0:15–0:30 · Walk in the park
 [ON SCREEN: sunny morning in the park. Oryx walks touching the grass in amazement. Luna trots beside him.]
@@ -76,7 +76,7 @@ See `02-song.md`. Images for each part:
 
 ### Scene 10b · Narrator reflection (≈ 8 s)
 [ON SCREEN: Oryx and Luna with the Earthling Diary, or the official image with a slow zoom. No new Kling shot needed.]
-**Narrator:** Remember, little friend: if a little animal needs help, tell a grown-up. And don't forget to brush your teeth and wash your little hands! See you on the next adventure, little friends!
+**Narrator:** Remember, little friend: if a little animal needs help, tell a grown-up. And don't forget to brush your teeth and wash your hands! See you on the next adventure, little friends!
 
 ### Scene 11 · 3:40–4:00 · Closing song
 See `../shared/opening-and-closing-songs.md`.

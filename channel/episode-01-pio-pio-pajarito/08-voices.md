@@ -11,7 +11,7 @@ Use these audios for Kling's Lip Sync or put them on top of the clip in CapCut.
 
 **Narrator** (your cloned voice) → `narrator-welcome.mp3`
 ```
-¡Hola, amiguitos! Bienvenidos a las aventuras de Oris y Luna. Hoy su misión será rescatar a un pajarito, y aprenderemos palabras nuevas como pájaro, nido y plumas. Papás: recuerden estar pendientes del contenido que ven sus hijos; es importante. ¡Y ahora, vamos a jugar!
+¡Hola, amiguitos! Bienvenidos a las aventuras de Oris y Luna. Hoy su misión será rescatar a un pajarito, y aprenderemos palabras nuevas como pájaro, nido y plumas. Papás: recuerden estar pendientes del contenido que ven sus hijos; es importante. ¡Y ahora, vamos a aprender jugando!
 ```
 
 ## T1
@@ -146,5 +146,5 @@ Dice que extraña a su mamá.
 
 **Narrator** (your cloned voice) → `narrator-reflection.mp3`
 ```
-Recuerda, amiguito: si un animalito necesita ayuda, díselo a un adulto. ¡Y no olvides cepillarte los dientes y lavarte las manitos! ¡Hasta la próxima aventura, amiguitos!
+Recuerda, amiguito: si un animalito necesita ayuda, díselo a un adulto. ¡Y no olvides cepillarte los dientes y lavarte las manos! ¡Hasta la próxima aventura, amiguitos!
 ```

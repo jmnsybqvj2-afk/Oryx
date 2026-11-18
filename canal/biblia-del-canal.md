@@ -126,3 +126,105 @@ la florecita crece, ¡y se pone de color!"* (×2)
 - Marcar el canal como "Hecho para niños" (sin comentarios ni anuncios personalizados).
 - Contenido educativo y de calidad; evitar contenido repetitivo o hecho en masa.
 - No pedir a los niños que se suscriban o den "like"; eso va para los padres en la descripción.
+
+## Canciones de los episodios
+
+Cada episodio tiene su propia canción completa (1 a 1:30 min), con un estilo distinto y
+movimientos para que los niños los imiten. La canción de entrada y la de salida siguen siendo
+las mismas en todos los episodios.
+
+### 🐦 Episodio 1 — "Pío, pío, pajarito"
+*Estilo: suave y tierna, como un arrullo. Ritmo lento.*
+
+**Estrofa 1**
+Oryx encontró en el suelo
+un pajarito sin vuelo.
+Sus antenitas brillaron,
+¡bip, bip, bip!, le avisaron.
+
+**Coro**
+Pío, pío, pajarito,
+no estés triste, chiquitito,
+a tu nido volverás,
+con tu mamá estarás.
+
+**Estrofa 2**
+Luna ladra: "¡Guau, cuidado!
+Busca un grande a tu lado."
+Con cariño lo subieron
+y a su nido lo volvieron.
+
+**Coro** (×2)
+
+**Final (susurrado):** Pío, pío… ¡ya está con mamá!
+
+*Movimientos:* mover los brazos como alitas; juntar los dedos como piquito en "pío, pío";
+abrazarse a sí mismos en "con tu mamá estarás".
+
+### 💧 Episodio 2 — "¡Agua fresca!"
+*Estilo: alegre y saltarina, para bailar. Ritmo rápido.*
+
+**Estrofa 1**
+El sol brilla, quema, quema,
+Luna saca la lengüita,
+jadea, jadea, ¡ay, qué pena!,
+¡necesita agüita!
+
+**Coro**
+¡Agua, agua, agua fresca!
+¡Glu, glu, glu! ¡Qué rica está!
+Cuando el sol calienta mucho,
+a Luna le doy de tomar.
+
+**Estrofa 2**
+Le ofrecí una galleta
+y Luna dijo que no.
+¿Qué quiere mi perrita?
+¡Agüita, ya sé yo!
+
+**Coro**
+
+**Estrofa 3**
+Y después, a la sombrita,
+bajo el árbol a jugar.
+Agua fresca y sombrita
+la hacen feliz de verdad.
+
+**Coro** (×2) + ¡Guau! ¡RAWR!
+
+*Movimientos:* abanicarse con la mano en "quema, quema"; sacar la lengüita; hacer como que
+beben en "glu, glu, glu"; saltar en el coro.
+
+### 🌸 Episodio 3 — "Crece, crece, florecita"
+*Estilo: mágica. Empieza lenta y bajita, y en cada coro sube un poquito más de velocidad y tono,
+como la flor que crece.*
+
+**Estrofa 1**
+En el jardín hay una flor
+triste, gris y sin color.
+Oryx le canta rock espacial…
+¡pero sigue igual, igual!
+
+**Estrofa 2**
+Luna huele la tierrita,
+¡está seca, sequecita!
+Le ponemos agüita,
+¡plic, plic, plic!, poquito a poquito.
+
+**Coro**
+Crece, crece, florecita,
+con agüita y con sol,
+crece, crece, despacito,
+¡y se llena de color!
+
+**Estrofa de los colores**
+Se pone roja, se pone amarilla,
+se pone rosa, ¡qué maravilla!
+Se pone morada, se pone azul,
+¡la flor más bonita eres tú!
+
+**Coro** (más rápido y más alto) + ¡RAWR!
+
+*Movimientos:* empezar agachados como semillita; hacer lluvia con los dedos en "plic, plic,
+plic"; ir levantándose poco a poco en el coro y terminar de pie con los brazos abiertos como
+una flor. En la estrofa de los colores, la flor cambia de color en pantalla con cada palabra.

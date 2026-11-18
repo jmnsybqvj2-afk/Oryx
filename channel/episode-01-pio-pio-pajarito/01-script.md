@@ -2,7 +2,7 @@
 
 **Total length:** ≈ 4:00 · **Lesson:** little animals like to be with their family; if you find
 an animal that needs help, tell a grown-up first.
-**Characters:** Oryx, Luna, Rosa the veterinarian, the baby bird and its mother.
+**Characters:** Oryx, Luna, Rosa the veterinarian, the baby bird and its mother and father.
 **Place:** a park with a big tree.
 
 > This file is **for reading the story only** (not for Kling, not for ElevenLabs).
@@ -40,9 +40,9 @@ See `../shared/opening-and-closing-songs.md`.
 
 ### Scene 6 · 1:15–1:35 · Luna translates
 [ON SCREEN: Luna listens with her ears up. The baby bird chirps, looking up.]
-**Luna:** He says he misses his mommy. His little home is up there!
-[ON SCREEN: the camera slowly moves up the tree to a nest. The mother bird is calling.]
-**Oryx:** Oh! He has a mommy who's looking for him!
+**Luna:** He says he misses his mommy and daddy. His little home is up there!
+[ON SCREEN: the camera slowly moves up the tree to a nest. The mother and father birds are calling.]
+**Oryx:** Oh! He has a mommy and a daddy who are looking for him!
 
 ### Scene 7 · 1:35–2:00 · Asking a grown-up for help
 **Oryx:** We need to ask a grown-up for help!
@@ -55,12 +55,12 @@ See `../shared/opening-and-closing-songs.md`.
 ### Scene 8 · 2:00–3:15 · Episode song
 See `02-song.md`. Images for each part:
 - **Verse 1:** animated replay of Oryx finding the baby bird and his antennae lighting up.
-- **Chorus:** the baby bird snuggled with its mother in the nest; Oryx and Luna flap their "wings".
+- **Chorus:** the baby bird snuggled with its mother and father in the nest; Oryx and Luna flap their "wings".
 - **Verse 2:** Luna barks and Rosa puts the baby bird back in the nest.
 - **Final chorus:** everyone flaps their arms like wings; little hearts around the nest.
 
 ### Scene 9 · 3:15–3:30 · Celebration and sticker
-[ON SCREEN: mother bird and baby together. Oryx jumps for joy.]
+[ON SCREEN: the whole bird family together: mother, father and baby. Oryx jumps for joy.]
 [ON SCREEN: Oryx roars happily.]
 **Oryx:** RAWR! A little bird sticker for my Earthling Diary!
 [ON SCREEN: Oryx opens the diary and sticks in a sparkly baby bird sticker.]

@@ -70,7 +70,7 @@ Sus antenitas brillaron,
 Pío, pío, pajarito,
 no estés triste, chiquitito,
 a tu nido volverás,
-con tu mamá estarás.
+con tu mamá y papá.
 
 [Verse 2]
 Luna ladra: "¡Guau, cuidado!
@@ -82,16 +82,16 @@ y a su nido lo volvieron.
 Pío, pío, pajarito,
 no estés triste, chiquitito,
 a tu nido volverás,
-con tu mamá estarás.
+con tu mamá y papá.
 
 [Chorus]
 Pío, pío, pajarito,
 no estés triste, chiquitito,
 a tu nido volverás,
-con tu mamá estarás.
+con tu mamá y papá.
 
 [Outro]
-(susurrado) Pío, pío… ¡ya está con mamá!
+(susurrado) Pío, pío… ¡ya está con mamá y papá!
 ```
 **Style**
 ```

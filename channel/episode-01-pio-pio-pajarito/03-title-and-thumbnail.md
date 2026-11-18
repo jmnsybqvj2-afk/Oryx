@@ -17,7 +17,7 @@ Pío Pío Pajarito 🐦 Canción Infantil | Oryx y Luna
 
 ## Thumbnail
 - **Text:** ¡MAMÁ! — thick white letters with a dark outline, top right.
-- **Center:** the gray baby bird on the grass looking up at its mother in the nest.
+- **Center:** the gray baby bird on the grass looking up at its mother and father in the nest.
 - **Left:** Oryx with his hands on his cheeks, surprised, antennae lit up red.
 - **Right:** Luna pointing at the nest with her paw.
 - **Background:** blue sky and a green tree. Channel logo in the bottom corner.
@@ -25,7 +25,7 @@ Pío Pío Pajarito 🐦 Canción Infantil | Oryx y Luna
 ## Prompt to generate the thumbnail
 ```
 YouTube thumbnail, [STYLE] Center: a tiny fluffy gray baby bird sitting on bright green grass
-looking up at its gray mother bird in a nest on a tree branch. Left: [ORYX] with both hands on
+looking up at its gray mother and father birds in a nest on a tree branch. Left: [ORYX] with both hands on
 his cheeks, very surprised expression, [RED ANTENNAE]. Right: [LUNA] pointing up at the
 nest with her paw. Bright blue sky background, high contrast, big expressive faces, empty
 space in the top right corner for text.

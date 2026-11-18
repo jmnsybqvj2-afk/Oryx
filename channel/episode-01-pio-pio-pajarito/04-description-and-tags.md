@@ -21,7 +21,7 @@ Sus antenitas brillaron,
 Pío, pío, pajarito,
 no estés triste, chiquitito,
 a tu nido volverás,
-con tu mamá estarás.
+con tu mamá y papá.
 
 Luna ladra: "¡Guau, cuidado!
 Busca un grande a tu lado."

@@ -69,7 +69,7 @@ Luna listens to a tiny gray baby bird on the grass with her big ears up, then tu
 
 **T9 · 10 s** · Elements: Luna
 ```
-The camera slowly moves up a big tree trunk to a nest on a low branch where a gray mother bird looks down and chirps. Slow tilt up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+The camera slowly moves up a big tree trunk to a nest on a low branch where a gray mother bird and a gray father bird look down and chirp. Slow tilt up. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T10 · 5 s** · Elements: Oryx
@@ -86,7 +86,7 @@ Rosa, a kind veterinarian in a white vet coat, walks over across the park smilin
 
 **T12 · 10 s** · Elements: Rosa
 ```
-Rosa puts on gloves and very gently lifts a tiny gray baby bird with both hands and places it back into a nest on a low tree branch, the gray mother bird chirps happily. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Rosa puts on gloves and very gently lifts a tiny gray baby bird with both hands and places it back into a nest on a low tree branch, the gray mother and father birds chirp happily. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T13 · 10 s** · Elements: Oryx, Luna, Rosa
@@ -103,7 +103,7 @@ Dreamy soft-focus scene: Oryx and Luna find a gray baby bird in the grass, music
 
 **T15 · 10 s** · Elements: none
 ```
-A tiny fluffy gray baby bird cuddles with its mother in a cozy nest, little hearts float around them. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+A tiny fluffy gray baby bird cuddles with its mother and father in a cozy nest, little hearts float around them. Slow push in. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T16 · 10 s** · Elements: Oryx, Luna
@@ -123,7 +123,7 @@ Oryx, Luna and Rosa dance flapping their arms like wings under the tree, birds c
 
 **T19 · 10 s** · Elements: Oryx, Luna
 ```
-Oryx and Luna wave up at the bird family in the nest, the gray mother bird and baby chirp back. Slow tilt from the characters up to the nest. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Oryx and Luna wave up at the bird family in the nest, the gray mother bird, father bird and baby chirp back. Slow tilt from the characters up to the nest. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 ## Scene 9 · Celebration and sticker (3:15–3:30)

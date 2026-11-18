@@ -45,6 +45,7 @@ At the end of every episode, Oryx sticks in a sticker of the animal he learned t
 | Time | Moment | Length |
 |---|---|---|
 | 0:00 | Opening song (always the same) | 15 s |
+| 0:15 | **Narrator welcome** (creator's voice): what kids and parents will learn today | 15 s |
 | 0:15 | Beep-beep! The animal with the problem appears | 15–20 s |
 | 0:35 | Oryx gets it wrong (something funny) | 20–30 s |
 | 1:00 | "¿Tú sabes qué necesita?" (Do you know what it needs?) + 3 s pause | 10 s |
@@ -52,8 +53,9 @@ At the end of every episode, Oryx sticks in a sticker of the animal he learned t
 | 2:00 | Episode song | 1:00–1:30 |
 | 3:15 | Celebration + sticker in the Earthling Diary | 15 s |
 | 3:30 | "¿Qué aprendimos hoy?" (What did we learn today?) | 10 s |
+| 3:40 | **Narrator reflection** (creator's voice): the lesson + a good habit (brush your teeth, drink water, wash your hands…) | 15 s |
 | 3:40 | Closing song (always the same) | 20 s |
-| **≈ 4:00** | **Total (range: 3:00 to 5:00)** | |
+| **≈ 4:30** | **Total (range: 3:30 to 5:00)** | |
 
 For a short episode (3 min), the episode song ends with a single chorus.
 For a long one (5 min), Oryx gets it wrong twice before the solution.

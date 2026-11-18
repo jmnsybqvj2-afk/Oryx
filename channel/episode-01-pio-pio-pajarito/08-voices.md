@@ -6,6 +6,14 @@ and save the audio with the name shown (for example `T1-oryx-1.mp3`).
 The name is written **"Oris"** inside the boxes so the voice pronounces it correctly.
 Use these audios for Kling's Lip Sync or put them on top of the clip in CapCut.
 
+
+## NARRATOR · Welcome (right after the opening song)
+
+**Narrator** (your cloned voice) → `narrator-welcome.mp3`
+```
+¡Hola, amiguitos! ¡Bienvenidos! Hoy Oris y Luna van a encontrar un pajarito que necesita ayuda. Vamos a aprender a cuidar a los animales y también palabras nuevas: pájaro, nido y plumas. Papás: en este episodio sus hijos aprenderán que, si encuentran un animalito que necesita ayuda, primero se lo dicen a un adulto. ¿Listos? ¡Vamos!
+```
+
 ## T1
 
 **Oryx** → `T1-oryx-1.mp3`
@@ -132,4 +140,11 @@ Dice que extraña a su mamá.
 **Oryx** → `T22-oryx-2.mp3`
 ```
 ¡Y que primero le decimos a un adulto!
+```
+
+## NARRATOR · Reflection (after "What did we learn today?", before the closing song)
+
+**Narrator** (your cloned voice) → `narrator-reflection.mp3`
+```
+Recuerda, amiguito: a los animalitos les gusta estar con su familia, igual que a ti. Si encuentras uno que necesita ayuda, díselo a un adulto. Y antes de dormir, no olvides cepillarte los dientes y darle un abrazo a tu familia. ¡Hasta la próxima aventura!
 ```

@@ -12,6 +12,10 @@
 ### Scene 1 · 0:00–0:15 · Opening song
 See `../shared/opening-and-closing-songs.md`.
 
+### Scene 1b · Narrator welcome (≈ 15 s)
+[ON SCREEN: the flying saucer and Luna clip (`../shared/presentation/flying-saucer-and-luna-16x9.mp4`) or the official image with a slow zoom. No new Kling shot needed.]
+**Narrator:** Hello, little friends! Welcome! Today it's very hot and Luna needs help. We'll learn what our pets need when it's hot, and also the words hot and cold, sun and shade. Parents: today your children will learn that pets always need fresh water and a shady place. Ready? Let's go!
+
 ### Scene 2 · 0:15–0:35 · Playing ball
 [ON SCREEN: garden with a big sun. Oryx throws a red ball; Luna runs and brings it back.]
 **Oryx:** Again, Luna! Again!
@@ -58,6 +62,10 @@ See `02-song.md`. Images for each part:
 ### Scene 10 · 3:30–3:40 · What did we learn today?
 **Oryx:** What did we learn today?
 **Luna:** That when it's hot, us pets need fresh water and shade!
+
+### Scene 10b · Narrator reflection (≈ 15 s)
+[ON SCREEN: Oryx and Luna with the Earthling Diary, or the official image with a slow zoom. No new Kling shot needed.]
+**Narrator:** Remember, little friend: when it's hot, you need to drink water too, just like Luna. And if you have a pet, check with a grown-up that its bowl always has fresh water. See you on the next adventure!
 
 ### Scene 11 · 3:40–4:00 · Closing song
 See `../shared/opening-and-closing-songs.md`.

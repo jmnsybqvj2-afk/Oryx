@@ -6,6 +6,14 @@ and save the audio with the name shown (for example `T1-oryx-1.mp3`).
 The name is written **"Oris"** inside the boxes so the voice pronounces it correctly.
 Use these audios for Kling's Lip Sync or put them on top of the clip in CapCut.
 
+
+## NARRATOR · Welcome (right after the opening song)
+
+**Narrator** (your cloned voice) → `narrator-welcome.mp3`
+```
+¡Hola, amiguitos! ¡Bienvenidos! Hoy hace mucho calor y Luna necesita ayuda. Vamos a aprender qué necesitan nuestras mascotas cuando hace calor, y también las palabras calor y frío, sol y sombra. Papás: hoy sus hijos aprenderán que las mascotas siempre necesitan agua fresca y un lugar con sombra. ¿Listos? ¡Vamos!
+```
+
 ## T1
 
 **Oryx** → `T1-oryx-1.mp3`
@@ -98,4 +106,11 @@ Cuando hace calor, los perritos necesitamos agua.
 **Luna** → `T19-luna-1.mp3`
 ```
 ¡Que cuando hace calor, las mascotas necesitamos agua fresca y sombrita!
+```
+
+## NARRATOR · Reflection (after "What did we learn today?", before the closing song)
+
+**Narrator** (your cloned voice) → `narrator-reflection.mp3`
+```
+Recuerda, amiguito: cuando hace calor, tú también necesitas tomar agua, igual que Luna. Y si tienes una mascota, revisa con un adulto que siempre tenga su platito con agua fresca. ¡Hasta la próxima aventura!
 ```

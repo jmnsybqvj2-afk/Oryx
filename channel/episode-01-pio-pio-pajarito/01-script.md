@@ -13,6 +13,10 @@ an animal that needs help, tell a grown-up first.
 ### Scene 1 · 0:00–0:15 · Opening song
 See `../shared/opening-and-closing-songs.md`.
 
+### Scene 1b · Narrator welcome (≈ 15 s)
+[ON SCREEN: the flying saucer and Luna clip (`../shared/presentation/flying-saucer-and-luna-16x9.mp4`) or the official image with a slow zoom. No new Kling shot needed.]
+**Narrator:** Hello, little friends! Welcome! Today Oryx and Luna will find a baby bird that needs help. We'll learn to care for animals and some new words: bird, nest and feathers. Parents: in this episode your children will learn that if they find a little animal that needs help, they tell a grown-up first. Ready? Let's go!
+
 ### Scene 2 · 0:15–0:30 · Walk in the park
 [ON SCREEN: sunny morning in the park. Oryx walks touching the grass in amazement. Luna trots beside him.]
 **Oryx:** Luna, look! This green stuff is so soft… what is it called?
@@ -69,6 +73,10 @@ See `02-song.md`. Images for each part:
 **Oryx:** What did we learn today?
 **Luna:** That little animals like to be with their family!
 **Oryx:** And that we tell a grown-up first!
+
+### Scene 10b · Narrator reflection (≈ 15 s)
+[ON SCREEN: Oryx and Luna with the Earthling Diary, or the official image with a slow zoom. No new Kling shot needed.]
+**Narrator:** Remember, little friend: little animals like to be with their family, just like you. If you find one that needs help, tell a grown-up. And before bed, don't forget to brush your teeth and give your family a hug. See you on the next adventure!
 
 ### Scene 11 · 3:40–4:00 · Closing song
 See `../shared/opening-and-closing-songs.md`.

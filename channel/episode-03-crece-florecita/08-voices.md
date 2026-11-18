@@ -6,6 +6,14 @@ and save the audio with the name shown (for example `T1-oryx-1.mp3`).
 The name is written **"Oris"** inside the boxes so the voice pronounces it correctly.
 Use these audios for Kling's Lip Sync or put them on top of the clip in CapCut.
 
+
+## NARRATOR · Welcome (right after the opening song)
+
+**Narrator** (your cloned voice) → `narrator-welcome.mp3`
+```
+¡Hola, amiguitos! ¡Bienvenidos! Hoy Oris y Luna van a ayudar a una florecita muy triste, ¡y vamos a aprender los colores! Papás: en este episodio sus hijos aprenderán que las plantas están vivas y necesitan agua y sol, y repasarán los colores. ¿Listos? ¡Vamos!
+```
+
 ## T1
 
 **Oryx** → `T1-oryx-1.mp3`
@@ -96,4 +104,11 @@ Y mira, Oris… ¡tu nave le tapa el sol!
 **Oryx** → `T20-oryx-2.mp3`
 ```
 ¡Y yo aprendí a estacionar mi nave en otro lado!
+```
+
+## NARRATOR · Reflection (after "What did we learn today?", before the closing song)
+
+**Narrator** (your cloned voice) → `narrator-reflection.mp3`
+```
+Recuerda, amiguito: las plantas también están vivas. Con la ayuda de un adulto, puedes regar las plantas de tu casa. ¡Y no olvides lavarte las manos después de jugar en el jardín! ¡Hasta la próxima aventura!
 ```

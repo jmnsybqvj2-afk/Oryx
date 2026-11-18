@@ -13,6 +13,10 @@ learn the colors.
 ### Scene 1 · 0:00–0:15 · Opening song
 See `../shared/opening-and-closing-songs.md`.
 
+### Scene 1b · Narrator welcome (≈ 15 s)
+[ON SCREEN: the flying saucer and Luna clip (`../shared/presentation/flying-saucer-and-luna-16x9.mp4`) or the official image with a slow zoom. No new Kling shot needed.]
+**Narrator:** Hello, little friends! Welcome! Today Oryx and Luna will help a very sad little flower, and we'll learn the colors! Parents: in this episode your children will learn that plants are alive and need water and sun, and they'll review the colors. Ready? Let's go!
+
 ### Scene 2 · 0:15–0:35 · The garden of colors
 [ON SCREEN: a garden full of colorful flowers. Oryx's flying saucer is parked next to it.]
 **Oryx:** Luna, look at all the colors! Red, blue, pink!
@@ -61,6 +65,10 @@ See `02-song.md`. Images for each part:
 **Luna:** That plants are alive too and need water and sun!
 **Oryx:** And I learned to park my ship somewhere else!
 [ON SCREEN: Oryx laughs.]
+
+### Scene 10b · Narrator reflection (≈ 15 s)
+[ON SCREEN: Oryx and Luna with the Earthling Diary, or the official image with a slow zoom. No new Kling shot needed.]
+**Narrator:** Remember, little friend: plants are alive too. With a grown-up's help, you can water the plants at home. And don't forget to wash your hands after playing in the garden! See you on the next adventure!
 
 ### Scene 11 · 3:40–4:00 · Closing song
 See `../shared/opening-and-closing-songs.md`.

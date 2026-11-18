@@ -33,3 +33,8 @@ Clear pronunciation, friendly cartoon character.
 A kind young woman, around 30 years old, speaking Latin American Spanish. Warm, calm and friendly,
 gentle and reassuring, like a caring veterinarian talking to small children. Clear pronunciation.
 ```
+
+**Narrator** — use **the creator's cloned voice** (already made). It reads the welcome at the start
+and the reflection at the end of every episode (see the NARRATOR boxes in each `08-voices.md`).
+The narrator is a warm adult voice that talks to kids and parents; Oryx and Luna keep their
+child voices.

@@ -35,6 +35,7 @@ The shots (T1, T2…) are the ones in `07-kling-shots.md`.
 2. Rosa is now a **veterinarian**, so the white coat is correct. The only problem is the text.
 
 ## 🎙️ Audio
+- [ ] Narrator welcome and reflection (creator's cloned voice) — NARRATOR boxes in `08-voices.md`
 - [ ] Voices for Oryx, Luna and Rosa (ElevenLabs) — use `08-voices.md`
 - [x] Song "Pío, pío, pajarito" ✅ `audio/song-pio-pio-pajarito.m4a` (1:45, made in Suno — the "Pío" version)
       Timed lyrics for the on-screen text: `audio/song-pio-pio-pajarito-lyrics.srt`

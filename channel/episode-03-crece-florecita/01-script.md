@@ -59,7 +59,8 @@ See `02-song.md`. Images for each part:
 ### Scene 10 · 3:30–3:40 · What did we learn today?
 **Oryx:** ¿Qué aprendimos hoy?
 **Luna:** ¡Que las plantas también están vivas y necesitan agua y sol!
-**Oryx:** ¡Y yo aprendí a estacionar mi nave en otro lado! *(laughs)*
+**Oryx:** ¡Y yo aprendí a estacionar mi nave en otro lado!
+[ON SCREEN: Oryx laughs.]
 
 ### Scene 11 · 3:40–4:00 · Closing song
 See `../shared/opening-and-closing-songs.md`.

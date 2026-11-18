@@ -17,18 +17,20 @@ See `../shared/opening-and-closing-songs.md`.
 [ON SCREEN: sunny morning in the park. Oryx walks touching the grass in amazement. Luna trots beside him.]
 **Oryx:** ¡Luna, mira! Esta cosa verde es suavecita… ¿cómo se llama?
 **Luna:** ¡Pasto, Oryx! Se llama pasto.
-**Oryx:** ¡Pasto! ¡En mi planeta no hay pasto! ¡RAWR! *(wiggles his tail)*
+**Oryx:** ¡Pasto! ¡En mi planeta no hay pasto! ¡RAWR!
+[ON SCREEN: Oryx wiggles his tail.]
 
 ### Scene 3 · 0:30–0:45 · Beep-beep!
 [ON SCREEN: Oryx's antennae light up red and blink.]
 **Oryx:** ¡Bip-bip-bip! ¡Mis antenitas! ¡Alguien necesita ayuda!
-[ON SCREEN: Oryx and Luna look around. On the grass, a small gray baby bird chirps: "¡Pío, pío!"]
+[ON SCREEN: Oryx and Luna look around. On the grass, a small gray baby bird is chirping.]
 **Oryx:** ¡Ahí! ¡Una bolita con plumas!
 
 ### Scene 4 · 0:45–1:05 · Oryx gets it wrong
 [ON SCREEN: Oryx walks over excitedly and reaches out his arms.]
 **Oryx:** ¡Ya sé! ¡Me lo llevo a mi nave para jugar con él todo el día!
-**Luna:** ¡Guau, guau! *(stands in front of the baby bird and shakes her head)*
+**Luna:** ¡Guau, guau!
+[ON SCREEN: Luna stands in front of the baby bird and shakes her head.]
 **Oryx:** ¿No? Pero… ¡es tan chiquito y bonito!
 
 ### Scene 5 · 1:05–1:15 · Question for the kids
@@ -39,7 +41,7 @@ See `../shared/opening-and-closing-songs.md`.
 ### Scene 6 · 1:15–1:35 · Luna translates
 [ON SCREEN: Luna listens with her ears up. The baby bird chirps, looking up.]
 **Luna:** Dice que extraña a su mamá. ¡Su casita está ahí arriba!
-[ON SCREEN: the camera slowly moves up the tree to a nest. The mother bird calls: "¡Pío, pío!"]
+[ON SCREEN: the camera slowly moves up the tree to a nest. The mother bird is calling.]
 **Oryx:** ¡Oh! ¡Tiene una mamá que lo está buscando!
 
 ### Scene 7 · 1:35–2:00 · Asking a grown-up for help
@@ -59,7 +61,8 @@ See `02-song.md`. Images for each part:
 
 ### Scene 9 · 3:15–3:30 · Celebration and sticker
 [ON SCREEN: mother bird and baby together. Oryx jumps for joy.]
-**Oryx:** ¡RAWR! *(happy)* ¡Estampita de pajarito para mi Diario Terrícola!
+[ON SCREEN: Oryx roars happily.]
+**Oryx:** ¡RAWR! ¡Estampita de pajarito para mi Diario Terrícola!
 [ON SCREEN: Oryx opens the diary and sticks in a sparkly baby bird sticker.]
 
 ### Scene 10 · 3:30–3:40 · What did we learn today?

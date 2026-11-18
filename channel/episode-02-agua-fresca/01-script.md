@@ -25,7 +25,8 @@ See `../shared/opening-and-closing-songs.md`.
 ### Scene 4 · 0:50–1:10 · Oryx gets it wrong
 **Oryx:** ¡Ya sé! ¡Te doy mi galleta espacial!
 [ON SCREEN: Oryx offers her a shiny star-shaped cookie. Luna turns her face away.]
-**Luna:** ¡Guau! *(shakes her head)*
+**Luna:** ¡Guau!
+[ON SCREEN: Luna shakes her head.]
 **Oryx:** ¿No quieres galleta? Mmm…
 
 ### Scene 5 · 1:10–1:20 · Question for the kids

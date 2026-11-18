@@ -3,7 +3,9 @@
 They are the same in every episode. Generate the music once and reuse it.
 The lyrics are in **Spanish** (this is what is sung).
 
-## 🛸 Opening — "¡Oryx y Luna!" (15 seconds) ⬜ TO DO
+## 🛸 Opening — "¡Oryx y Luna!" ✅ DONE
+
+**Final song:** `audio/opening-song-oryx-y-luna.m4a` (24 s, made in Suno) · timed lyrics: `audio/opening-song-oryx-y-luna-lyrics.srt`
 
 ¡Bip, bip, bip! ¡Bip, bip, bip!
 Desde el Planeta Amarillo

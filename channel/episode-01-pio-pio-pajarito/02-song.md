@@ -14,7 +14,7 @@ Sus antenitas brillaron,
 Pío, pío, pajarito,
 no estés triste, chiquitito,
 a tu nido volverás,
-con tu mamá y papá.
+con tu mamá estarás.
 
 **Verse 2**
 Luna ladra: "¡Guau, cuidado!
@@ -24,12 +24,12 @@ y a su nido lo volvieron.
 
 **Chorus** (×2)
 
-**Ending (whispered):** Pío, pío… ¡ya está con mamá y papá!
+**Ending (whispered):** Pío, pío… ¡ya está con mamá!
 
 ## Moves for the kids
 - Arms like wings during the chorus.
 - Fingers together like a little beak on "pío, pío".
-- Hug yourself on "con tu mamá y papá".
+- Hug yourself on "con tu mamá estarás".
 
 ## Prompt to generate the music
 ```

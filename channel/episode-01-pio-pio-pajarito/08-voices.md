@@ -64,7 +64,7 @@ Use these audios for Kling's Lip Sync or put them on top of the clip in CapCut.
 
 **Luna** → `T8-luna-1.mp3`
 ```
-Dice que extraña a su mamá y a su papá.
+Dice que extraña a su mamá.
 ```
 
 ## T9
@@ -78,7 +78,7 @@ Dice que extraña a su mamá y a su papá.
 
 **Oryx** → `T10-oryx-1.mp3`
 ```
-¡Oh! ¡Tiene una mamá y un papá que lo están buscando!
+¡Oh! ¡Tiene una mamá que lo está buscando!
 ```
 
 ## T11

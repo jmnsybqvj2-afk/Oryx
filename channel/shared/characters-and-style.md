@@ -85,8 +85,7 @@ rim, light blue glass dome on top with a tiny antenna, warm yellow light beam sh
 **[BABY BIRD]** (episode 1 — always the same baby bird and the same mother)
 ```
 A small fluffy gray baby bird with a round body, tiny orange beak and big shiny black eyes;
-its gray mother bird has a light gray belly and an orange beak, and its father bird is a little bigger
-with a darker gray back and an orange beak.
+its gray mother bird has a light gray belly and an orange beak.
 ```
 
 **[ROSA]**

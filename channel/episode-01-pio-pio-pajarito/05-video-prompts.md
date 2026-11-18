@@ -39,7 +39,7 @@ finger on his chin, a big friendly colorful question mark floating next to him.
 **Scene 6 · Luna translates (20 s)**
 ```
 [STYLE] [LUNA] listens to a tiny gray baby bird with her big ears up. Slow camera tilt up the
-tree trunk to a nest on a branch where a gray mother bird and a gray father bird look down and call. [ORYX] looks up,
+tree trunk to a nest on a branch where a gray mother bird looks down and calls. [ORYX] looks up,
 surprised and happy.
 ```
 
@@ -54,7 +54,7 @@ says thank you and Rosa gives a thumbs up.
 ```
 Clip A (verse 1): [STYLE] Dreamy soft-focus replay: [ORYX] finds a gray baby bird in the
 grass, [RED ANTENNAE], music notes floating.
-Clip B (chorus): [STYLE] The gray baby bird cuddles with its mother and father in the nest, little hearts
+Clip B (chorus): [STYLE] The gray baby bird cuddles with its mother in the nest, little hearts
 float around; below, [ORYX] and [LUNA] flap their arms and paws like wings, smiling.
 Clip C (verse 2): [STYLE] [LUNA] barks happily, [ROSA] gently places the gray baby bird in
 the nest.

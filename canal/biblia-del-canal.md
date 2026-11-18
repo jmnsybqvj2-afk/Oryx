@@ -23,17 +23,22 @@ Al final de cada episodio, Oryx pega una estampita del animal que aprendió a cu
 
 ## Estructura de cada episodio (siempre la misma, 3 a 5 min)
 
-| Tiempo | Momento | Qué pasa |
+| Tiempo | Momento | Duración |
 |---|---|---|
-| 0:00 | Canción de entrada (10-15 s, idéntica siempre) | "¡Oryx y Luna, ya llegaron, a la Tierra a explorar!" |
-| 0:15 | ¡Bip-bip! | Las antenitas se encienden y aparece el animal con el problema |
-| 0:40 | Oryx se equivoca | Propone algo incorrecto y gracioso |
-| 1:00 | Pregunta a los niños + pausa de 3 s | "¿Tú sabes qué necesita?" |
-| 1:20 | Luna traduce | Explica qué siente el animal |
-| 1:45 | Lo hacen bien + canción de la lección | Rima de 4 líneas, se repite 2 veces |
-| 3:00 | Celebración + estampita en el Diario | "¡RAWR!" de alegría |
-| 3:20 | "¿Qué aprendimos hoy?" | Repaso en una sola frase |
-| 3:40 | Canción de salida | Siempre la misma |
+| 0:00 | Canción de entrada (idéntica siempre) | 15 s |
+| 0:15 | ¡Bip-bip! Aparece el animal con el problema | 15-20 s |
+| 0:35 | Oryx se equivoca (algo gracioso) | 20-30 s |
+| 1:00 | "¿Tú sabes qué necesita?" + pausa de 3 s | 10 s |
+| 1:10 | Luna traduce y lo resuelven juntos | 30-60 s |
+| 2:00 | Canción del episodio | 1:00-1:30 |
+| 3:15 | Celebración + estampita en el Diario Terrícola | 15 s |
+| 3:30 | "¿Qué aprendimos hoy?" | 10 s |
+| 3:40 | Canción de salida (idéntica siempre) | 20 s |
+| **≈ 4:00** | **Total (rango: 3:00 a 5:00)** | |
+
+Para un episodio corto (3 min), la canción del episodio va con un solo coro final.
+Para uno largo (5 min), se alarga el momento en que Oryx se equivoca o se agrega un segundo
+intento fallido antes de la solución.
 
 ## Episodio 1: "El pajarito que se cayó del nido"
 
@@ -228,3 +233,35 @@ Se pone morada, se pone azul,
 *Movimientos:* empezar agachados como semillita; hacer lluvia con los dedos en "plic, plic,
 plic"; ir levantándose poco a poco en el coro y terminar de pie con los brazos abiertos como
 una flor. En la estrofa de los colores, la flor cambia de color en pantalla con cada palabra.
+
+### 🛸 Canción de entrada — "¡Oryx y Luna!" (15 segundos)
+*Estilo: alegre y con energía. Es igual en todos los episodios.*
+
+¡Bip, bip, bip! ¡Bip, bip, bip!
+Desde el Planeta Amarillo
+llegó Oryx, el marcianito,
+con Luna, su perrita,
+¡a la Tierra a explorar!
+¡Oryx y Luna! ¡RAWR! ¡Guau!
+
+*En pantalla:* la nave amarilla cruza el cielo → aterriza → se abre la puerta → las antenitas
+brillan en "bip, bip" → Oryx saluda con su pijama de dinosaurio → Luna salta a su lado →
+logo del canal en "¡Oryx y Luna!".
+*Movimientos:* antenitas con los dedos sobre la cabeza en "bip, bip"; garritas de dinosaurio
+en "¡RAWR!".
+
+### 👋 Canción de salida — "¡Adiós, terrícolas!" (20 segundos)
+*Estilo: tranquila y cariñosa, para cerrar. Es igual en todos los episodios.*
+
+Hoy aprendimos algo nuevo,
+lo guardamos en el corazón:
+a los animales y a las plantas
+los cuidamos con amor.
+¡Adiós, adiós, terrícolas,
+pronto volveremos a jugar!
+¡Bip, bip, bip! ¡Guau! ¡RAWR!
+
+*En pantalla:* Oryx abre el Diario Terrícola con todas las estampitas → manos en el corazón
+→ Oryx y Luna se despiden con la mano junto a la nave → la nave se eleva un poquito y se
+queda flotando (porque Oryx sigue en la Tierra aprendiendo).
+*Movimientos:* manos en el corazón en "lo guardamos en el corazón"; decir adiós con la mano.

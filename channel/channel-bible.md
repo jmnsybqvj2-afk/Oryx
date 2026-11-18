@@ -6,6 +6,16 @@
 Kids' channel (ages 0 to 6). Oryx, a little alien, comes to Earth to learn to care for, love and
 respect animals and nature, together with his friend Luna, a chihuahua.
 
+## 🎓 The rule of the channel: every episode teaches something
+The videos are **educational**. Every episode has two things:
+1. **A value:** caring for, loving and respecting animals and nature (the story).
+2. **A school skill taught with a song:** colors, numbers, animal names and sounds, flower names,
+   letters, how to write your name, shapes, body parts, opposites, days of the week…
+
+The song is where the skill is taught: kids repeat it, sing it and learn it.
+On screen, the edit always adds **big words and numbers** (for example the word "PÁJARO" letter
+by letter, or the numbers 1-2-3 while counting), so kids also learn to read them.
+
 ## Characters
 Full description and prompt blocks: `shared/characters-and-style.md`.
 Official image: `shared/references/oryx-and-luna-official.jpg`.
@@ -56,17 +66,29 @@ For a long one (5 min), Oryx gets it wrong twice before the solution.
 | 2 | `episode-02-agua-fresca/` | Luna is thirsty on a hot day | Pets need fresh water and shade when it's hot | "¡Agua fresca!" (dance) |
 | 3 | `episode-03-crece-florecita/` | A sad gray flower in the shadow of the saucer | Plants are alive and need water and sun; learning colors | "Crece, crece, florecita" (magical) |
 
-## Ideas for the season
-1. The slow turtle: Oryx learns patience
-2. Trash in the river: picking it up and sorting it
-3. The kitten that doesn't want to be picked up: respecting its space
-4. Little bees: don't be afraid of them, they help the flowers!
-5. Farm animal sounds
-6. Luna's bath
-7. The new little tree: planting a seed
-8. The colors of animals
-9. Counting ducklings from 1 to 5
-10. The lost puppy: putting a name tag on your pet
+## Season plan (story + what kids learn)
+
+| # | Story | Value | Kids learn (song) |
+|---|---|---|---|
+| 1 | A baby bird falls from its nest | Animals like to be with their family; tell a grown-up | Bird words on screen: PÁJARO, NIDO, PLUMAS, PICO, ALAS |
+| 2 | Luna is thirsty | Pets need water and shade | Hot / cold, sun / shade (opposites) |
+| 3 | The sad gray flower | Plants are alive and need water and sun | **Colors**: red, yellow, pink, purple, blue |
+| 4 | Oryx visits the farm | Every animal needs care | **Animal names and sounds** (cow, horse, pig, duck, sheep) |
+| 5 | Counting ducklings | Mommy duck takes care of her babies | **Numbers 1 to 5** |
+| 6 | The garden of flowers | Don't pull up flowers, water them | **Flower names** (rose, sunflower, daisy, tulip) |
+| 7 | Oryx learns to write his name | Every name is special | **Letters: writing your name** (O-R-Y-X, L-U-N-A) |
+| 8 | Shapes in nature | Look at nature carefully | **Shapes**: circle (sun), triangle (mountain), square |
+| 9 | The family of little birds | Family love: mommy and daddy | Family words: MAMÁ, PAPÁ, BEBÉ, ABUELO, ABUELA |
+| 10 | Luna's bath | Keeping pets clean | **Body parts**: ears, nose, paws, tail |
+| 11 | The slow turtle | Patience | Fast / slow (opposites) |
+| 12 | Trash in the river | Keep nature clean | Sorting by color: blue, green, yellow bins |
+| 13 | Little bees | Don't be afraid, they help flowers | Counting flowers 1 to 10 |
+| 14 | The new little tree | Planting a seed | Days of the week (watering it every day) |
+
+### Episode 1 can still teach words for free
+Episode 1 is already in production. Without spending credits, the edit can add the words
+**PÁJARO, NIDO, PLUMAS, PICO and ALAS** on screen (big, letter by letter, with Oryx saying them),
+so it also teaches vocabulary.
 
 ## Song ideas for the future
 - **A song about family love** (idea from the channel creator): show that the little ones have a

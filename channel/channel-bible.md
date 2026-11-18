@@ -68,6 +68,12 @@ For a long one (5 min), Oryx gets it wrong twice before the solution.
 9. Counting ducklings from 1 to 5
 10. The lost puppy: putting a name tag on your pet
 
+## Song ideas for the future
+- **A song about family love** (idea from the channel creator): show that the little ones have a
+  mommy and a daddy who love them, with lines like *"con tu mamá y papá"*. It could be its own
+  episode about the family of an animal (for example, a bird family, or ducklings with their
+  mother and father).
+
 ## Strategy and rules
 - Compilations of 30–60 min with 8–10 episodes.
 - Each episode song as a standalone 1–2 min music video.

@@ -39,7 +39,7 @@ The shots (T1, T2…) are the ones in `07-kling-shots.md`.
 - [x] Narrator reflection ✅ `audio/narrator-reflection.m4a` (10.7 s, volume adjusted) — shown over the official night image
 - [ ] Voices for Oryx, Luna and Rosa (ElevenLabs) — use `08-voices.md`. Saved in `audio/voices/`
       Oryx: ✅ ALL 14 lines done (T1, T2, T3, T4, T5, T6, T7, T10, T11, T13-1, T13-2, T20, T22-1, T22-2)
-      Luna: voice created ✅ · lines done: T1-luna-1 · Rosa: ⬜ to do
+      Luna: voice created ✅ · lines done: T1-luna-1, T8-luna-1 · Rosa: ⬜ to do
 - [x] Song "Pío, pío, pajarito" ✅ `audio/song-pio-pio-pajarito.m4a` (1:45, made in Suno — the "Pío" version)
       Timed lyrics for the on-screen text: `audio/song-pio-pio-pajarito-lyrics.srt`
       Parts: intro 0:00–0:14 · verse 1 0:14–0:29 · chorus 0:29–0:44 · verse 2 0:44–0:58 ·

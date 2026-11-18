@@ -29,7 +29,8 @@ plain light green background.
 **Rosa** (no tiene imagen todavía; sube la imagen oficial como referencia de estilo)
 ```
 Character reference sheet of Rosa, a kind middle-aged park ranger woman, green ranger
-uniform, ranger hat, gardening gloves, warm smile. Front view and side view. Same
+uniform, ranger hat, gardening gloves, small backpack, warm smile, unarmed, no weapons, no holster.
+Front view and side view. Same
 children's storybook illustration style as the reference image, hand-painted gouache
 texture, plain light yellow background.
 ```
@@ -71,7 +72,7 @@ No adjuntes más de los necesarios: con 2 o 3 personajes por toma los resultados
 ```
 realistic, photorealistic, scary, dark, horror, violence, blood, crying hard, distorted
 face, deformed hands, extra limbs, extra fingers, text, letters, watermark, logo, blurry,
-flickering, fast cuts, strobe lights
+flickering, fast cuts, strobe lights, gun, pistol, weapon, holster, knife, police
 ```
 - Genera 2 o 3 versiones de cada toma y quédate con la mejor.
 

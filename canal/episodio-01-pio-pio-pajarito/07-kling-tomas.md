@@ -1,6 +1,9 @@
 # Episodio 1 · El pajarito que se cayó del nido — Tomas para Kling
 
 Lee primero `../comun/kling-guia.md` (Elements, prompt negativo, voces y edición).
+
+⚠️ **Tomas con Rosa (T11, T12, T13, T17, T18):** antes de usarlas, revisa que Rosa no lleve
+nada parecido a un arma en el cinturón. Si sale con algo así, borra la toma y genera otra.
 Cada toma dura 5 o 10 s. Copia el prompt completo tal cual.
 
 **Total de tomas nuevas:** 22 (+ 4 tomas comunes de entrada y salida) · **Duración del episodio:** ≈ 4:00
@@ -82,7 +85,7 @@ Oryx looks up at the tree, surprised and happy, hands on his cheeks. Static medi
 **T11 · 5 s** · Elements: Oryx, Luna, Rosa
 🎙️ Lip Sync: Oryx: «¡Hay que pedir ayuda a un adulto!» / Luna: «¡Ahí viene Rosa!»
 ```
-Rosa walks over across the park smiling and waving, Oryx and Luna wave back. Wide static shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
+Rosa, an unarmed park ranger with a small backpack, walks over across the park smiling and waving, Oryx and Luna wave back. Wide static shot. Children's storybook illustration style, hand-painted gouache and colored pencil texture, warm soft lighting.
 ```
 
 **T12 · 10 s** · Elements: Rosa

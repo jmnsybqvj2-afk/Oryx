@@ -42,7 +42,8 @@ Platillo volador clásico color lavanda grisáceo, con lucecitas amarillas redon
 cúpula de vidrio azul claro con una antenita arriba y un rayo de luz amarilla cálida por abajo.
 
 ## 👩 Rosa, la guardaparques (episodio 1)
-Señora amable con uniforme verde, sombrero de guardaparques y guantes. Aparece cuando hay que
+Señora amable con uniforme verde, sombrero de guardaparques, guantes y una mochilita.
+**Nunca lleva armas** (ni pistola ni funda en el cinturón): es una cuidadora de la naturaleza, no policía. Aparece cuando hay que
 enseñar que **se pide ayuda a un adulto**.
 
 ---
@@ -82,7 +83,7 @@ rim, light blue glass dome on top with a tiny antenna, warm yellow light beam sh
 **[ROSA]**
 ```
 Rosa: a kind middle-aged park ranger woman, green ranger uniform, ranger hat, gardening
-gloves, warm smile.
+gloves, small backpack, warm smile, unarmed, no weapons, no holster.
 ```
 
 **[ANTENAS ROJAS]** (para el momento "¡bip-bip!")

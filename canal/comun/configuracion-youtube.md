@@ -24,3 +24,4 @@ propia, su lección y su canción. Evita subir variaciones casi iguales del mism
 - No pedir a los niños que se suscriban, den "like" o compren algo.
 - No poner enlaces a sitios externos dirigidos a niños.
 - No mostrar a niños tocando animales silvestres sin un adulto.
+- Ningún personaje lleva armas. Revisa cada toma antes de usarla.

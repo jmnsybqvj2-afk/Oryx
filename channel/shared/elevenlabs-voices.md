@@ -2,6 +2,11 @@
 
 Create each voice **once**, save it, and always use the same one in every episode.
 
+## Important
+ElevenLabs blocks descriptions that mention a **child or an age** ("boy", "5 years old"), to protect
+minors. Describe a **cartoon character voice** instead, as below. Another easy option is the
+**Voice Library**: search "cartoon", "animated" or "character" (Spanish) and add a ready-made voice.
+
 ## How
 1. In ElevenLabs, open **Voices → Create a voice → Voice Design** (design a voice from a description).
 2. Paste the description of the character (below) and generate.
@@ -16,16 +21,12 @@ line once and only regenerate the ones that sound wrong.
 
 **Oryx**
 ```
-A cheerful young boy, around 5 years old, speaking Latin American Spanish. Curious, amazed and
-playful, slightly high-pitched, warm and sweet, with lots of wonder in his voice, like a child
-discovering the world for the first time. Clear pronunciation, friendly cartoon character.
+Playful animated cartoon character voice for a friendly little alien in a kids' TV show. High-pitched, bright, bubbly and curious, full of wonder and excitement. Warm, sweet and expressive. Latin American Spanish, clear and slow pronunciation.
 ```
 
 **Luna**
 ```
-A sweet young girl, around 6 years old, speaking Latin American Spanish. Gentle, kind and brave,
-soft and warm voice, calm and caring, like a loving little friend who explains things patiently.
-Clear pronunciation, friendly cartoon character.
+Gentle animated cartoon character voice for a small talking puppy in a kids' TV show. Soft, sweet and warm, kind and brave, calm and caring. Latin American Spanish, clear pronunciation.
 ```
 
 **Rosa**

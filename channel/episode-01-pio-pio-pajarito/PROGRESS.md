@@ -40,5 +40,6 @@ The shots (T1, T2…) are the ones in `07-kling-shots.md`.
       Timed lyrics for the on-screen text: `audio/song-pio-pio-pajarito-lyrics.srt`
       Parts: intro 0:00–0:14 · verse 1 0:14–0:29 · chorus 0:29–0:44 · verse 2 0:44–0:58 ·
       chorus 0:58–1:10 · chorus 1:10–1:24 · whispered ending 1:24–1:45
-- [ ] Opening and closing songs
+- [ ] Opening song (Suno) — `../shared/suno-songs.md`
+- [x] Closing song ✅ `../shared/audio/closing-song-adios-terricolas.m4a` (33 s)
 - [ ] Effects: beep-beep, RAWR, woof, Luna's bell, birds

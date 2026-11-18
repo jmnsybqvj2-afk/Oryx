@@ -3,7 +3,7 @@
 They are the same in every episode. Generate the music once and reuse it.
 The lyrics are in **Spanish** (this is what is sung).
 
-## 🛸 Opening — "¡Oryx y Luna!" (15 seconds)
+## 🛸 Opening — "¡Oryx y Luna!" (15 seconds) ⬜ TO DO
 
 ¡Bip, bip, bip! ¡Bip, bip, bip!
 Desde el Planeta Amarillo
@@ -30,7 +30,9 @@ green hill; [ORYX] and [LUNA] float down gently in its yellow light beam and lan
 grass, [RED ANTENNAE], Oryx waves and Luna wags her tail, both smile at the camera.
 ```
 
-## 👋 Closing — "¡Adiós, terrícolas!" (20 seconds)
+## 👋 Closing — "¡Adiós, terrícolas!" ✅ DONE
+
+**Final song:** `audio/closing-song-adios-terricolas.m4a` (33 s, made in Suno) · timed lyrics: `audio/closing-song-adios-terricolas-lyrics.srt`
 
 Hoy aprendimos algo nuevo,
 lo guardamos en el corazón:

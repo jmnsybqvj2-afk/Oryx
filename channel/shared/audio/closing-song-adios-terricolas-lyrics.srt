@@ -1,0 +1,36 @@
+1
+00:00:02,560 --> 00:00:02,560
+[Verse]
+
+2
+00:00:02,560 --> 00:00:06,423
+Hoy aprendimos algo nuevo,
+
+3
+00:00:06,423 --> 00:00:10,904
+lo guardamos en el corazón:
+
+4
+00:00:10,904 --> 00:00:15,164
+a los animales y a las plantas
+
+5
+00:00:15,164 --> 00:00:20,079
+los cuidamos con amor.
+
+6
+00:00:20,079 --> 00:00:20,079
+[Outro]
+
+7
+00:00:20,079 --> 00:00:24,497
+¡Adiós, adiós, terrícolas,
+
+8
+00:00:24,497 --> 00:00:29,015
+pronto volveremos a jugar!
+
+9
+00:00:29,015 --> 00:00:37,254
+¡Bip, bip, bip! ¡Guau! ¡Raaawr!
+

@@ -5,11 +5,11 @@ de **10 segundos o menos**. Si tu versión permite clips más largos, puedes uni
 seguidas en un solo clip.
 
 ## Paso 1 · Preparar las imágenes de referencia
-Ya tienes las ilustraciones oficiales en `referencias/` (ver `personajes-y-estilo.md`).
-Están en formato vertical, así que conviene crear con **Kling Imagen** algunas versiones extra
-usando la imagen 01 como referencia:
+La imagen oficial es `referencias/oryx-y-luna-oficial.jpg`. Está en formato vertical y solo
+muestra a los personajes de frente, así que conviene crear con **Kling Imagen** algunas
+versiones extra subiendo **esa misma imagen** como referencia:
 
-**Oryx de cuerpo completo, de lado y de espaldas** (sube la imagen 01 como referencia)
+**Oryx de cuerpo completo, de lado y de espaldas** (sube la imagen oficial como referencia)
 ```
 Character reference sheet of the same alien child from the reference image: front view,
 side view and back view, full body, neutral happy pose, two thin gray antennae with round
@@ -18,7 +18,7 @@ storybook illustration style, hand-painted gouache and colored pencil texture, p
 blue background.
 ```
 
-**Luna de lado y caminando** (sube la imagen 01 como referencia)
+**Luna de lado y caminando** (sube la imagen oficial como referencia)
 ```
 Character reference sheet of the same chihuahua puppy from the reference image: front view,
 side view, sitting, walking, small brown and tan chihuahua with cream chest, red collar with a
@@ -26,12 +26,20 @@ small golden bell. Children's storybook illustration style, hand-painted gouache
 plain light green background.
 ```
 
-**Rosa** (no tiene imagen todavía; sube la imagen 01 como referencia de estilo)
+**Rosa** (no tiene imagen todavía; sube la imagen oficial como referencia de estilo)
 ```
 Character reference sheet of Rosa, a kind middle-aged park ranger woman, green ranger
 uniform, ranger hat, gardening gloves, warm smile. Front view and side view. Same
 children's storybook illustration style as the reference image, hand-painted gouache
 texture, plain light yellow background.
+```
+
+**El platillo volador** (sube la imagen oficial como referencia de estilo)
+```
+A classic cartoon flying saucer, lavender-gray metal, round glowing yellow lights around the
+rim, light blue glass dome on top with a tiny antenna, warm yellow light beam shining down.
+Same children's storybook illustration style as the reference image, hand-painted gouache
+texture, starry night sky background.
 ```
 
 **Escena de día de prueba** (para confirmar que el estilo funciona de día)
@@ -44,9 +52,12 @@ illustration style, hand-painted gouache and colored pencil texture, 16:9.
 ## Paso 2 · Crear los Elements (personajes guardados)
 En Kling, crea un Element por personaje con sus imágenes de referencia (Kling acepta varias
 imágenes por Element):
-- **Oryx:** imagen 01 + la hoja de vistas que generaste (NO uses la 02, ahí no tiene antenitas).
-- **Luna:** imágenes 01, 02 y 03 + su hoja de vistas.
-- **Nave:** imagen 02 (el platillo volador).
+- **Oryx:** la imagen oficial + su hoja de vistas.
+- **Luna:** la imagen oficial + su hoja de vistas.
+- **Nave:** la imagen del platillo volador que generaste.
+
+Revisa que cada hoja de vistas se parezca a la imagen oficial (antenitas grises con bolitas
+amarillas, collar rojo con campanita). Si alguna sale distinta, no la uses: genera otra.
 - **Rosa:** su hoja de vistas.
 En cada toma de los archivos `07-kling-tomas.md` se indica qué Elements adjuntar.
 No adjuntes más de los necesarios: con 2 o 3 personajes por toma los resultados salen mejor.

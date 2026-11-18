@@ -1,11 +1,8 @@
 # Personajes y estilo visual
 
-**Las imágenes oficiales están en `referencias/`.** Úsalas como referencia en Kling (Elements).
-- `01-oryx-luna-principal.jpg` ⭐ **la referencia principal** de Oryx y Luna (cuerpo completo, de frente).
-- `02-oryx-luna-platillo.jpg` → referencia del **platillo volador** y de Luna en movimiento.
-  ⚠️ Aquí Oryx no tiene antenitas (tiene cuernos): no usar para el Element de Oryx.
-- `03-oryx-luna-bosque.jpg` → referencia de expresión y de vista de lado.
-  ⚠️ Aquí las antenitas son azules y los picos naranjas: lo oficial es lo de la imagen 01.
+**La imagen oficial es una sola: `referencias/oryx-y-luna-oficial.jpg`.** Así se ven Oryx y
+Luna, siempre. Úsala como referencia en Kling (Elements).
+- `referencias/avatar-canal-800.jpg` → foto de perfil del canal (recortada de la imagen oficial).
 - `avatar-canal-800.jpg` → foto de perfil del canal (cara de Oryx, lista para YouTube).
 
 ## 🎨 Estilo
@@ -17,7 +14,7 @@ redondos con ojos grandes y expresivos. Se siente acogedor y tierno.
 - Las historias pasan **de día** (parque, jardín), con el mismo estilo pintado.
 - Nada de miedo ni peligro real: los problemas se resuelven siempre con cariño.
 
-## 🟡 Oryx, el marcianito (según la imagen 01)
+## 🟡 Oryx, el marcianito (según la imagen oficial)
 - Piel amarilla, mejillas rosadas, ojos grandes **azules** con brillitos, sonrisa abierta.
 - **Dos antenitas** de palito gris con **bolitas amarillas**, que salen por arriba de la capucha.
   Cuando un animal necesita ayuda, las bolitas **brillan en rojo** y suenan "¡bip-bip-bip!".
@@ -25,7 +22,7 @@ redondos con ojos grandes y expresivos. Se siente acogedor y tierno.
   propios ojos azules** y dientitos blancos alrededor de la cara de Oryx, picos verdes en la
   capucha y la espalda, barriga verde clara con rayitas, cola larga con punta de flecha.
 - Manos y pies amarillos.
-- Accesorio opcional: su **osito de peluche** café (imagen 01).
+- Accesorio opcional: su **osito de peluche** café (aparece en la imagen oficial).
 - Cuando se emociona ruge "¡RAWR!" y mueve la colita.
 - **Voz:** de niño, curiosa y alegre, un poco aguda.
 
@@ -37,7 +34,7 @@ redondos con ojos grandes y expresivos. Se siente acogedor y tierno.
 - Entiende a los animales y le "traduce" a Oryx lo que sienten.
 - **Voz:** dulce y valiente. Su "¡Guau!" corto significa "¡ya sé!".
 
-## 🛸 El platillo volador (según la imagen 02)
+## 🛸 El platillo volador (todavía no tiene imagen: se genera en Kling, ver `kling-guia.md`)
 Platillo volador clásico color lavanda grisáceo, con lucecitas amarillas redondas alrededor,
 cúpula de vidrio azul claro con una antenita arriba y un rayo de luz amarilla cálida por abajo.
 

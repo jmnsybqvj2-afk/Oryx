@@ -10,7 +10,7 @@ amar y respetar a los animales y a la naturaleza, junto con su amiga, la chihuah
 
 ### 🟡 Oryx, el marcianito
 - Piel amarilla, ojos azules, dos antenitas grises con bolitas amarillas, pijama de dinosaurio verde
-  con cara de dinosaurio en la capucha y colita. Imagen oficial: `comun/referencias/01-oryx-luna-principal.jpg`.
+  con cara de dinosaurio en la capucha y colita. Imagen oficial: `comun/referencias/oryx-y-luna-oficial.jpg`.
 - Viene del Planeta Amarillo, donde no hay animales ni plantas: todo en la Tierra le asombra.
 - **Recurso estrella:** cuando un animal necesita ayuda, sus antenitas se encienden y hacen
   *"¡bip-bip-bip!"*. Así arranca cada episodio.

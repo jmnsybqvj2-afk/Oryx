@@ -36,10 +36,9 @@ The shots (T1, T2…) are the ones in `07-kling-shots.md`.
 
 ## 🎙️ Audio
 - [ ] Voices for Oryx, Luna and Rosa (ElevenLabs) — use `08-voices.md`
-- [x] Song "Pío, pío, pajarito" ✅ `audio/song-pio-pio-pajarito.m4a` (1:33, made in Suno)
+- [x] Song "Pío, pío, pajarito" ✅ `audio/song-pio-pio-pajarito.m4a` (1:45, made in Suno — the "Pío" version)
       Timed lyrics for the on-screen text: `audio/song-pio-pio-pajarito-lyrics.srt`
-      Parts: intro 0:00–0:12 · verse 1 0:12–0:26 · chorus 0:26–0:40 · verse 2 0:40–0:54 ·
-      chorus 0:54–1:05 · chorus 1:05–1:19 · whispered ending 1:19–1:33
-      Alternative version (slower, 1:45): `audio/song-pio-pio-pajarito-version-2.m4a`
+      Parts: intro 0:00–0:14 · verse 1 0:14–0:29 · chorus 0:29–0:44 · verse 2 0:44–0:58 ·
+      chorus 0:58–1:10 · chorus 1:10–1:24 · whispered ending 1:24–1:45
 - [ ] Opening and closing songs
 - [ ] Effects: beep-beep, RAWR, woof, Luna's bell, birds

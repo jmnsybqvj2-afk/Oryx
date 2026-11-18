@@ -76,7 +76,7 @@ See `02-song.md`. Images for each part:
 
 ### Scene 10b · Narrator reflection (≈ 8 s)
 [ON SCREEN: Oryx and Luna with the Earthling Diary, or the official image with a slow zoom. No new Kling shot needed.]
-**Narrator:** Remember, little friend: if a little animal needs help, tell a grown-up. And don't forget to brush your teeth! See you on the next adventure!
+**Narrator:** Remember, little friend: if a little animal needs help, tell a grown-up. And don't forget to brush your teeth and wash your little hands! See you on the next adventure, little friends!
 
 ### Scene 11 · 3:40–4:00 · Closing song
 See `../shared/opening-and-closing-songs.md`.

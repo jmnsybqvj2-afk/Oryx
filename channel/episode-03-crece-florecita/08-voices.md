@@ -110,5 +110,5 @@ Y mira, Oris… ¡tu nave le tapa el sol!
 
 **Narrator** (your cloned voice) → `narrator-reflection.mp3`
 ```
-Recuerda, amiguito: las plantas también están vivas. ¡Y lávate las manos después de jugar! ¡Hasta la próxima aventura!
+Recuerda, amiguito: las plantas también están vivas. ¡Y lávate las manitos después de jugar! ¡Hasta la próxima aventura, amiguitos!
 ```

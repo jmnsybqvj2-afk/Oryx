@@ -146,5 +146,5 @@ Dice que extraña a su mamá.
 
 **Narrator** (your cloned voice) → `narrator-reflection.mp3`
 ```
-Recuerda, amiguito: si un animalito necesita ayuda, díselo a un adulto. ¡Y no olvides cepillarte los dientes! ¡Hasta la próxima aventura!
+Recuerda, amiguito: si un animalito necesita ayuda, díselo a un adulto. ¡Y no olvides cepillarte los dientes y lavarte las manitos! ¡Hasta la próxima aventura, amiguitos!
 ```

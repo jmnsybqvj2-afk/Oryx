@@ -112,5 +112,5 @@ Cuando hace calor, los perritos necesitamos agua.
 
 **Narrator** (your cloned voice) → `narrator-reflection.mp3`
 ```
-Recuerda, amiguito: cuando hace calor, toma agua, igual que Luna. ¡Hasta la próxima aventura!
+Recuerda, amiguito: cuando hace calor, toma agua, igual que Luna. ¡Hasta la próxima aventura, amiguitos!
 ```

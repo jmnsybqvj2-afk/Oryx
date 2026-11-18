@@ -265,3 +265,37 @@ pronto volveremos a jugar!
 → Oryx y Luna se despiden con la mano junto a la nave → la nave se eleva un poquito y se
 queda flotando (porque Oryx sigue en la Tierra aprendiendo).
 *Movimientos:* manos en el corazón en "lo guardamos en el corazón"; decir adiós con la mano.
+
+## Títulos y miniaturas
+
+Formato fijo para todos los episodios: **[Nombre de la canción] [emoji] Canción Infantil | Oryx y Luna**.
+Lo importante va en los primeros 40 caracteres (lo que se ve en el celular); el nombre del
+canal al final puede cortarse sin problema.
+
+Reglas de la miniatura (siempre el mismo diseño, para que se reconozca el canal):
+- Oryx a la izquierda, el animal grande en el centro, Luna a la derecha y el logo en una esquina.
+- Caras con emoción muy clara (sorpresa, risa, ternura).
+- Máximo 1 o 2 palabras, que **no repitan** el título. Los niños pequeños no leen: eligen por
+  la imagen. El texto es para los papás.
+- Fondo de un color que contraste con el amarillo de Oryx (azul cielo, verde, turquesa). Nunca
+  fondo amarillo.
+
+### 🐦 Episodio 1
+**Título:** Pío Pío Pajarito 🐦 Canción Infantil | Oryx y Luna
+**Alternativas:** El Pajarito que se Cayó del Nido 🐦 | Oryx y Luna · Pío Pío Pajarito 🐦 Aprende a Cuidar Animales
+**Miniatura:** texto "¡MAMÁ!". El pajarito en el pasto mira hacia arriba, a su mamá en el nido.
+Oryx con las manos en las mejillas, sorprendido, con las antenitas encendidas en rojo. Luna
+señala el nido con la patita. Fondo: cielo azul y árbol verde.
+
+### 💧 Episodio 2
+**Título:** ¡Agua Fresca! 💧 Canción Infantil | Oryx y Luna
+**Alternativas:** Luna Tiene Sed 🐶 Canción Infantil | Oryx y Luna · Cómo Cuidar a tu Perrito en Verano 🐶 Canción para Niños
+**Miniatura:** texto "¡GLU GLU!". Luna bebe de su platito con gotas grandes salpicando.
+Oryx se ríe sosteniendo la jarra. Un sol grande y sonriente en la esquina. Fondo: turquesa.
+
+### 🌸 Episodio 3
+**Título:** Crece Crece Florecita 🌸 Canción Infantil | Oryx y Luna
+**Alternativas:** Crece Crece Florecita 🌸 Aprende los Colores · La Flor Mágica que Cambia de Color 🌸 Canción Infantil
+**Miniatura:** texto "¡MAGIA!". Imagen dividida en dos: a la izquierda la flor gris y caída,
+a la derecha la misma flor llena de colores. Oryx en el centro con la regadera y la boca abierta
+de asombro; Luna salta feliz. Fondo: verde jardín.

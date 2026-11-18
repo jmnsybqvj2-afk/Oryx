@@ -34,8 +34,11 @@ The shots (T1, T2…) are the ones in `07-kling-shots.md`.
    This happened because the Spanish script was pasted into Kling. It can't be removed afterwards.
 2. Rosa is now a **veterinarian**, so the white coat is correct. The only problem is the text.
 
-## 🎙️ Audio (not started yet)
-- [ ] Voices for Oryx, Luna and Rosa (ElevenLabs)
-- [ ] Song "Pío, pío, pajarito"
+## 🎙️ Audio
+- [ ] Voices for Oryx, Luna and Rosa (ElevenLabs) — use `08-voices.md`
+- [x] Song "Pío, pío, pajarito" ✅ `audio/song-pio-pio-pajarito.m4a` (1:33, made in Suno)
+      Timed lyrics for the on-screen text: `audio/song-pio-pio-pajarito-lyrics.srt`
+      Parts: intro 0:00–0:12 · verse 1 0:12–0:26 · chorus 0:26–0:40 · verse 2 0:40–0:54 ·
+      chorus 0:54–1:05 · chorus 1:05–1:19 · whispered ending 1:19–1:33
 - [ ] Opening and closing songs
 - [ ] Effects: beep-beep, RAWR, woof, Luna's bell, birds

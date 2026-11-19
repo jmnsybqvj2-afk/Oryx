@@ -1,5 +1,10 @@
 # Episode 1 progress — "Pío, pío, pajarito"
 
+## 🎬 Draft
+- ✅ `draft/episode-01-draft-v1.mp4` — full episode (4:36) with all the audio, the 6 animated
+  clips, and still images with slow camera moves where shots are still missing.
+  Rebuilt with `../tools/build-episode-01-draft.py` when new shots arrive.
+
 Finished clips are in `clips/`, named after the scene they belong to.
 The shots (T1, T2…) are the ones in `07-kling-shots.md`.
 

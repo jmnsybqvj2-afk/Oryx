@@ -20,8 +20,8 @@ The shots (T1, T2…) are the ones in `07-kling-shots.md`.
 | T5 | Oryx wants to take it, Luna steps in front | ✅ | `clips/scene04-oryx-reaches-luna-stops.mp4` (cream border → crop in the edit) |
 | T6 | Luna barks, Oryx confused | ✅ | `clips/scene04-luna-barks-oryx-confused.mp4` |
 | T7 | "Do you know what it needs?" | ✅ | `clips/scene05-question-to-kids.mp4` |
-| T8 | Luna listens to the baby bird | ⬜ to do | |
-| T9 | Camera moves up to the nest and the mother | ⬜ to do | |
+| T8 | Luna listens to the baby bird | ✅ | `clips/scene06-luna-listens-nest.mp4` (first half) |
+| T9 | Camera moves up to the nest and the mother | ✅ | `clips/scene06-luna-listens-nest.mp4` (second half) |
 | T10 | Oryx surprised | ⬜ to do | |
 | T11 | Rosa arrives | ⬜ to do | |
 | T12 | Rosa puts the baby bird back in the nest | ❌ redo | `clips/REDO-scene07-rosa-with-text.mp4` (see below) |

@@ -17,7 +17,7 @@ Check each app's current terms before paying.
 
 | App | What we made on the free plan | What to do before monetizing |
 |---|---|---|
-| **Suno** | 3 songs (opening, "Pío, pío", closing) | Subscribe to a paid plan (Pro) and **generate the songs again** with the same lyrics and styles (`shared/suno-songs.md`). Keep the paid plan while making new songs. |
+| **Suno** ✅ | 3 songs (opening, "Pío, pío", closing) | ✅ **Covered:** the creator has a **paid Suno membership**, so songs made while subscribed can be used commercially. Nothing to redo. Keep making new songs while the membership is active (songs made on the free plan would not be covered). |
 | **ElevenLabs** | Oryx, Luna and Rosa voices (21 lines) | Paid plan (Starter or higher) for commercial use, then **regenerate the lines** (`08-voices.md`). The saved voices make it fast. |
 | **Kling** | 6 clips + presentation clips | Check Kling's terms for commercial use on your plan. A paid plan also removes the "KlingAI" watermark. |
 | **CapCut** | Editing | Don't use CapCut's library music in the videos; use our own songs. |

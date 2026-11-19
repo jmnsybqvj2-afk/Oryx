@@ -50,7 +50,7 @@ The friendly sun in the sky is the **narrator** of every episode, with the creat
   to sleep — just like Oryx at the end. We use Sol (not the moon) so kids don't confuse the moon
   with Luna the chihuahua.
 - Look: the same round golden sun with soft rays from the episode images, with big kind eyes,
-  rosy cheeks and a warm smile. Start frame: `../episode-01-pio-pio-pajarito/start-frames/start-sol-narrator.png`.
+  rosy cheeks and a warm smile. Start frames (with the face already drawn): `../episode-01-pio-pio-pajarito/start-frames/start-sol-narrator.png` (day) and `start-sol-sunset.png` (sunset).
 
 ## 👩‍⚕️ Rosa, the veterinarian (episode 1)
 Kind young woman, long brown hair, white veterinarian coat over a light blue shirt, blue gloves

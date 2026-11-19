@@ -16,7 +16,7 @@ The shots (T1, T2…) are the ones in `07-kling-shots.md`.
 | T1 | Walk in the park | ⬜ to do | |
 | T2 | "There's no grass on my planet! RAWR!" | ⬜ to do | |
 | T3 | Beep-beep! red antennae | ✅ | `clips/scene03-bip-bip-baby-bird.mp4` |
-| T4 | They find the baby bird | ⚠️ redo | In the T3 clip the bird is **yellow**; it must be **gray**. |
+| T4 | They find the baby bird | ✅ | `clips/scene03-bird-found.mp4` (gray bird; has a cream border → crop ~6% in the edit) |
 | T5 | Oryx wants to take it, Luna steps in front | ⬜ to do | |
 | T6 | Luna barks, Oryx confused | ✅ | `clips/scene04-luna-barks-oryx-confused.mp4` |
 | T7 | "Do you know what it needs?" | ✅ | `clips/scene05-question-to-kids.mp4` |

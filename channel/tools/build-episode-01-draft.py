@@ -20,8 +20,14 @@ CLIP = {
     "s05": f"{EP}/clips/scene05-question-to-kids.mp4",
     "s09": f"{EP}/clips/scene09-sticker.mp4",
     "s10": f"{EP}/clips/scene10-what-did-we-learn.mp4",
+    "v1": f"{EP}/clips/scene03-bird-found.mp4",
+    "v2": f"{EP}/clips/scene04-oryx-reaches-luna-stops.mp4",
+    "v3": f"{EP}/clips/scene06-luna-listens-nest.mp4",
+    "v4": f"{EP}/clips/scene07-rosa-picks-up-bird.mp4",
+    "v5": f"{EP}/clips/scene07b-hands-place-bird-in-nest.mp4",
 }
-PLATE = {"day": f"{W}/plates/day.png", "night": f"{W}/plates/night.png"}
+BORDER = {"v1", "v2"}   # Kling added a cream border: zoom in a little
+PLATE = {k: f"{W}/plates/{k}.png" for k in ["day", "night", "park", "surprised", "trio", "rosa"]}
 VO = lambda n: f"{W}/vo/{n}.wav"
 A_OPEN = f"{SH}/audio/opening-song-oryx-y-luna.m4a"
 A_CLOSE = f"{SH}/audio/closing-song-adios-terricolas.m4a"
@@ -66,10 +72,13 @@ def part_plate(out, plate, d, move):
          "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", out])
 
 
-def part_clip(out, clip, d, start=0.0):
-    length = dur(CLIP[clip]) - start
+def part_clip(out, clip, d, start=0.0, speed=1.0, end=None):
+    src_end = end if end is not None else dur(CLIP[clip])
+    length = (src_end - start) / speed
     pad = max(0.0, d - length + 0.1)
-    vf = (f"scale=1920:1080:flags=lanczos,fps={FPS},{COVER},"
+    crop = "crop=iw*0.93:ih*0.93," if clip in BORDER else ""
+    trim = f"trim=end={src_end - start:.3f},setpts=(PTS-STARTPTS)/{speed},"
+    vf = (f"{trim}{crop}scale=1920:1080:flags=lanczos,fps={FPS},{COVER},"
           f"tpad=stop_mode=clone:stop_duration={pad:.2f},format=yuv420p")
     run(["ffmpeg", "-v", "error", "-y", "-ss", f"{start}", "-i", CLIP[clip], "-an", "-vf", vf,
          "-t", f"{d:.3f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", out])
@@ -125,7 +134,7 @@ def segment(name, audio_items, video_parts, overlays=(), subs=None, afade_out=0.
         if p[0] == "plate":
             part_plate(f, p[1], p[2], p[3])
         else:
-            part_clip(f, p[1], p[2], p[3] if len(p) > 3 else 0.0)
+            part_clip(f, p[1], p[2], *p[3:])
         files.append(f)
     lst = f"{SEG}/{name}_list.txt"
     open(lst, "w").write("".join(f"file '{f}'\n" for f in files))
@@ -167,60 +176,63 @@ def srt_time(s):
 
 def main():
     segs = []
-    # 1 Opening song
     segs.append(segment("01_opening", [A_OPEN],
         [("clip", "saucer", 10.0), ("plate", "night", 0, "in")],
         [title("Las aventuras de Oryx y Luna", 10.6, 23.5, 110)]))
-    # 1b Narrator welcome
-    segs.append(segment("02_welcome", [0.3, A_WELCOME, 0.5], [("plate", "day", 0, "in")]))
-    # 2 Walk in the park
+    segs.append(segment("02_welcome", [0.3, A_WELCOME, 0.5], [("plate", "park", 0, "in")]))
+    # Scene 2: walk in the park
     segs.append(segment("03_scene2",
         [0.3, VO("T1-oryx-1"), GAP, VO("T1-luna-1"), GAP, VO("T2-oryx-1"), 0.3],
-        [("plate", "day", 0, "right")]))
-    # 3 Beep-beep (PLUMAS on screen)
-    it = [0.2, VO("T3-oryx-1"), GAP, VO("T4-oryx-1"), 0.5]
+        [("plate", "park", 0, "right")]))
+    # Scene 3: beep-beep (old clip, before the yellow chick) + bird found (video 1)
+    it = [0.2, VO("T3-oryx-1"), GAP, VO("T4-oryx-1"), 0.8]
     t = times(it)
-    segs.append(segment("04_scene3", it, [("clip", "s03", 5.0), ("plate", "day", 0, "down")],
+    segs.append(segment("04_scene3", it,
+        [("clip", "s03", round(t[2][1], 3), 0.0, 1.0, 3.8), ("clip", "v1", 0)],
         [word("PLUMAS", t[3][0], t[4][1])]))
-    # 4 Oryx gets it wrong
+    # Scene 4: Oryx reaches, Luna stops him (video 2, slowed) + Oryx confused
     it = [0.3, VO("T5-oryx-1"), GAP, VO("T6-oryx-1"), 0.3]
     t = times(it)
     segs.append(segment("05_scene4", it,
-        [("plate", "day", round(t[2][1], 3), "in"), ("clip", "s04", 0)]))
-    # 5 Question for the kids (3 s pause)
+        [("clip", "v2", round(t[2][1], 3), 0.0, 0.6, 3.0), ("clip", "v2", 0, 3.0, 0.45)]))
+    # Scene 5: question for the kids
     segs.append(segment("06_scene5", [0.2, VO("T7-oryx-1"), 3.0], [("clip", "s05", 0)]))
-    # 6 Luna translates (NIDO on screen)
+    # Scene 6: Luna listens + nest (video 3), then Oryx surprised
     it = [0.3, VO("T8-luna-1"), GAP, VO("T9-luna-1"), GAP, VO("T10-oryx-1"), 0.3]
     t = times(it)
-    segs.append(segment("07_scene6", it, [("plate", "day", 0, "up")],
+    segs.append(segment("07_scene6", it,
+        [("clip", "v3", round(t[4][1], 3), 0.0, 0.85), ("plate", "surprised", 0, "in")],
         [word("NIDO", t[3][0], t[4][1] + 0.3)]))
-    # 7 Asking a grown-up (VETERINARIA on screen)
+    # Scene 7: ask a grown-up; Rosa arrives, talks, picks up the bird, places it in the nest
     it = [0.3, VO("T11-oryx-1"), GAP, VO("T11-luna-1"), GAP, VO("T13-oryx-1"), GAP,
-          VO("T13-luna-1"), GAP, VO("T13-rosa-1"), GAP, VO("T13-oryx-2"), 0.4]
+          VO("T13-luna-1"), GAP, VO("T13-rosa-1"), 0.3, 7.6, VO("T13-oryx-2"), 0.5]
     t = times(it)
-    half = round(t[6][1], 3)
-    segs.append(segment("08_scene7", it, [("plate", "day", half, "in"), ("plate", "day", 0, "out")],
+    segs.append(segment("08_scene7", it,
+        [("plate", "trio", round(t[2][1], 3), "in"),
+         ("clip", "v4", round(t[4][1] - t[2][1], 3), 0.0, 0.5, 1.5),
+         ("plate", "rosa", round(t[10][1] - t[4][1], 3), "in"),
+         ("clip", "v4", 3.4, 1.5, 1.0),
+         ("clip", "v5", 0)],
         [word("VETERINARIA", t[7][0], t[8][1] + 0.3)]))
-    # 8 Song with lyrics, PÁJARO and NIDO on screen
+    # Song: new clips placed where the lyrics talk about them
     clean = f"{SEG}/song.srt"
     lines = clean_srt(SONG_SRT, clean)
     pajaro = next(srt_time(l[1].split(" --> ")[0]) for l in lines if "Pío, pío, pajarito" in l[2])
     nido = next(srt_time(l[1].split(" --> ")[0]) for l in lines if "nido volverás" in l[2])
     segs.append(segment("09_song", [A_SONG],
-        [("plate", "day", 14.0, "in"), ("clip", "s09", 5.0), ("plate", "day", 10.0, "left"),
-         ("clip", "s03", 5.0), ("plate", "day", 10.0, "out"), ("clip", "s10", 5.0),
-         ("clip", "s04", 5.0), ("plate", "day", 12.0, "up"), ("clip", "s09", 5.0),
-         ("plate", "day", 12.0, "right"), ("plate", "night", 0, "in")],
+        [("plate", "park", 14.0, "in"),
+         ("clip", "v1", 5.0), ("clip", "s03", 3.8, 0.0, 1.0, 3.8), ("clip", "v2", 5.0), ("plate", "surprised", 1.3, "in"),
+         ("clip", "v3", 5.0), ("clip", "v5", 5.0), ("clip", "s09", 4.8),
+         ("clip", "s04", 5.0), ("clip", "v4", 5.0), ("clip", "v5", 4.0),
+         ("clip", "s10", 5.0), ("clip", "v3", 3.0, 2.0), ("plate", "park", 4.0, "out"),
+         ("plate", "park", 7.0, "left"), ("clip", "s09", 5.0, 0.0, 1.0, 2.4), ("plate", "day", 2.0, "in"),
+         ("clip", "v5", 5.0), ("plate", "night", 0, "in")],
         [title("Pío, pío, pajarito", 1.0, 13.0, 120), word("PÁJARO", pajaro, pajaro + 3.0),
          word("NIDO", nido, nido + 3.0)], subs=clean, afade_out=1.5))
-    # 9 Celebration and sticker
     segs.append(segment("10_scene9", [0.2, VO("T20-oryx-1"), 0.5], [("clip", "s09", 0, 2.4)]))
-    # 10 What did we learn
     it = [0.3, VO("T22-oryx-1"), GAP, VO("T22-luna-1"), GAP, VO("T22-oryx-2"), 0.4]
-    segs.append(segment("11_scene10", it, [("clip", "s10", 5.0), ("plate", "day", 0, "in")]))
-    # 10b Narrator reflection
+    segs.append(segment("11_scene10", it, [("clip", "s10", 5.0), ("plate", "park", 0, "in")]))
     segs.append(segment("12_reflection", [0.3, A_REFLECT, 0.6], [("plate", "night", 0, "in")]))
-    # 11 Closing song
     close_d = dur(A_CLOSE)
     segs.append(segment("13_closing", [A_CLOSE],
         [("plate", "night", round(close_d - 10.0, 3), "out"), ("clip", "night_end", 0)],

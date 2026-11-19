@@ -24,7 +24,7 @@ The shots (T1, T2…) are the ones in `07-kling-shots.md`.
 | T9 | Camera moves up to the nest and the mother | ✅ | `clips/scene06-luna-listens-nest.mp4` (second half) |
 | T10 | Oryx surprised | ⬜ to do | |
 | T11 | Rosa arrives | ✅ | `clips/scene07-rosa-picks-up-bird.mp4` (first half: Rosa arrives and kneels) |
-| T12 | Rosa puts the baby bird back in the nest | 🟡 half | `clips/scene07-rosa-picks-up-bird.mp4` (Rosa picks up the bird) + video 5 (hands place it in the nest) to do |
+| T12 | Rosa puts the baby bird back in the nest | ✅ | `clips/scene07-rosa-picks-up-bird.mp4` (picks it up) + `clips/scene07b-hands-place-bird-in-nest.mp4` (places it; mother and baby snuggle with hearts) |
 | T13 | Rosa congratulates Oryx | ⬜ to do | |
 | T14–T19 | Song (6 shots) | ⬜ to do | |
 | T20 | Oryx jumps "RAWR!" | ⬜ to do | |

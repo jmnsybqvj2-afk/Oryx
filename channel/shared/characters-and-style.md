@@ -43,6 +43,15 @@ Classic flying saucer in lavender gray, with round yellow lights around the rim,
 glass dome with a small antenna on top, and a warm yellow light beam underneath.
 It has no image yet: generate it in Kling (see `kling-guide.md`).
 
+## ☀️ Sol, the narrator
+The friendly sun in the sky is the **narrator** of every episode, with the creator's cloned voice.
+- **Welcome** (start of the episode): Sol, in a bright blue sky, opens big friendly eyes and talks.
+- **Reflection** (end of the episode): the same Sol at **sunset** (orange sky) says goodbye and goes
+  to sleep — just like Oryx at the end. We use Sol (not the moon) so kids don't confuse the moon
+  with Luna the chihuahua.
+- Look: the same round golden sun with soft rays from the episode images, with big kind eyes,
+  rosy cheeks and a warm smile. Start frame: `../episode-01-pio-pio-pajarito/start-frames/start-sol-narrator.png`.
+
 ## 👩‍⚕️ Rosa, the veterinarian (episode 1)
 Kind young woman, long brown hair, white veterinarian coat over a light blue shirt, blue gloves
 and a stethoscope. She is the animals' doctor. She appears when the lesson is that **you ask a

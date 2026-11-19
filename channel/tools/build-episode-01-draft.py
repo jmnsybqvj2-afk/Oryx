@@ -111,8 +111,11 @@ def times(items):
 
 
 def word(text, a, b):
-    return (f"drawtext=fontfile={FONT}:text='{text}':fontsize=160:fontcolor=0xFFD93D:"
-            f"borderw=12:bordercolor=0x1d2b6b:x=(w-tw)/2:y=70:enable='between(t,{a:.2f},{b:.2f})'")
+    return (f"drawtext=fontfile={FONT}:text='{text}':"
+            f"fontsize='160*min(1,0.45+1.1*max(0,t-{a:.2f})/0.25)':"
+            f"alpha='min(1,max(0,(t-{a:.2f})/0.15))*min(1,max(0,({b:.2f}-t)/0.2))':"
+            f"fontcolor=0xFFD93D:borderw=12:bordercolor=0x1d2b6b:x=(w-tw)/2:y=70:"
+            f"enable='between(t,{a:.2f},{b:.2f})'")
 
 
 def title(text, a, b, size=120):
@@ -121,10 +124,28 @@ def title(text, a, b, size=120):
 
 
 # ---------- segment ----------
-def segment(name, audio_items, video_parts, overlays=(), subs=None, afade_out=0.0):
+SFX = lambda n: f"{W}/sfx/{n}.wav"
+
+
+def segment(name, audio_items, video_parts, overlays=(), subs=None, afade_out=0.0, sfx=(), ambient=False):
     print("segment", name, flush=True)
     a = f"{SEG}/{name}.wav"
     total = build_audio(a, audio_items)
+    if sfx or ambient:
+        mixed = f"{SEG}/{name}_mix.wav"
+        ins = ["-i", a]; fc = []; labels = ["[0:a]"]
+        k = 1
+        for (snd, at, gain) in sfx:
+            ins += ["-i", SFX(snd)]
+            ms = int(max(0, at) * 1000)
+            fc.append(f"[{k}:a]adelay={ms}|{ms},volume={gain}[s{k}]"); labels.append(f"[s{k}]"); k += 1
+        if ambient:
+            ins += ["-stream_loop", "-1", "-i", SFX("ambient")]
+            fc.append(f"[{k}:a]atrim=0:{total:.3f},volume=0.35[s{k}]"); labels.append(f"[s{k}]"); k += 1
+        fc.append("".join(labels) + f"amix=inputs={len(labels)}:normalize=0:duration=first[m]")
+        run(["ffmpeg", "-v", "error", "-y", *ins, "-filter_complex", ";".join(fc), "-map", "[m]",
+             "-c:a", "pcm_s16le", mixed])
+        a = mixed
     # stretch the last video part so video == audio
     known = sum(p[2] for p in video_parts[:-1])
     video_parts[-1] = (*video_parts[-1][:2], round(total - known, 3), *video_parts[-1][3:])
@@ -143,7 +164,7 @@ def segment(name, audio_items, video_parts, overlays=(), subs=None, afade_out=0.
         vf.append(f"subtitles={subs}:force_style='Fontname=Inter Display Black,Fontsize=24,"
                   "PrimaryColour=&H00FFFFFF,OutlineColour=&H006B2B1D,BorderStyle=1,Outline=3,"
                   "Shadow=0,MarginV=22'")
-    af = f"afade=t=out:st={total-afade_out:.2f}:d={afade_out}" if afade_out else "anull"
+    af = "afade=t=in:d=0.04," + (f"afade=t=out:st={total-afade_out:.2f}:d={afade_out}" if afade_out else f"afade=t=out:st={total-0.05:.2f}:d=0.05")
     cmd = ["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-i", a]
     if vf:
         cmd += ["-vf", ",".join(vf)]
@@ -178,60 +199,62 @@ def main():
     segs = []
     segs.append(segment("01_opening", [A_OPEN],
         [("clip", "saucer", 10.0), ("plate", "night", 0, "in")],
-        [title("Las aventuras de Oryx y Luna", 10.6, 23.5, 110)]))
-    segs.append(segment("02_welcome", [0.3, A_WELCOME, 0.5], [("plate", "park", 0, "in")]))
-    # Scene 2: walk in the park
+        [title("Las aventuras de Oryx y Luna", 10.6, 23.5, 110)],
+        sfx=[("whoosh", 0.3, 0.6), ("sparkle", 10.6, 0.5)]))
+    segs.append(segment("02_welcome", [0.3, A_WELCOME, 0.5], [("plate", "park", 0, "in")], ambient=True))
     segs.append(segment("03_scene2",
         [0.3, VO("T1-oryx-1"), GAP, VO("T1-luna-1"), GAP, VO("T2-oryx-1"), 0.3],
-        [("plate", "park", 0, "right")]))
-    # Scene 3: beep-beep (old clip, before the yellow chick) + bird found (video 1)
+        [("plate", "park", 0, "right")], ambient=True, sfx=[("bell", 6.2, 0.5)]))
     it = [0.2, VO("T3-oryx-1"), GAP, VO("T4-oryx-1"), 0.8]
     t = times(it)
     segs.append(segment("04_scene3", it,
         [("clip", "s03", round(t[2][1], 3), 0.0, 1.0, 3.8), ("clip", "v1", 0)],
-        [word("PLUMAS", t[3][0], t[4][1])]))
-    # Scene 4: Oryx reaches, Luna stops him (video 2, slowed) + Oryx confused
+        [word("PLUMAS", t[3][0], t[4][1])], ambient=True,
+        sfx=[("beep", 0.0, 0.7), ("chirp", t[2][1] - 0.3, 0.6), ("sparkle", t[3][0], 0.5)]))
     it = [0.3, VO("T5-oryx-1"), GAP, VO("T6-oryx-1"), 0.3]
     t = times(it)
     segs.append(segment("05_scene4", it,
-        [("clip", "v2", round(t[2][1], 3), 0.0, 0.6, 3.0), ("clip", "v2", 0, 3.0, 0.45)]))
-    # Scene 5: question for the kids
-    segs.append(segment("06_scene5", [0.2, VO("T7-oryx-1"), 3.0], [("clip", "s05", 0)]))
-    # Scene 6: Luna listens + nest (video 3), then Oryx surprised
+        [("clip", "v2", round(t[2][1], 3), 0.0, 0.6, 3.0), ("clip", "v2", 0, 3.0, 0.45)],
+        ambient=True, sfx=[("bell", t[1][1] - 0.6, 0.5), ("boing", t[3][0] - 0.1, 0.6)]))
+    segs.append(segment("06_scene5", [0.2, VO("T7-oryx-1"), 3.0], [("clip", "s05", 0)],
+        ambient=True, sfx=[("sparkle", 2.7, 0.35)]))
     it = [0.3, VO("T8-luna-1"), GAP, VO("T9-luna-1"), GAP, VO("T10-oryx-1"), 0.3]
     t = times(it)
     segs.append(segment("07_scene6", it,
-        [("clip", "v3", round(t[4][1], 3), 0.0, 0.85), ("plate", "surprised", 0, "in")],
-        [word("NIDO", t[3][0], t[4][1] + 0.3)]))
-    # Scene 7: ask a grown-up; Rosa arrives, talks, picks up the bird, places it in the nest
+        [("clip", "v3", round(t[4][1], 3), 0.0, 0.85), ("clip", "v1", 0, 1.0, 0.6, 3.0)],
+        [word("NIDO", t[3][0], t[4][1] + 0.3)], ambient=True,
+        sfx=[("chirp", 0.6, 0.5), ("chirp", t[3][0] + 0.2, 0.6), ("sparkle", t[3][0], 0.5)]))
     it = [0.3, VO("T11-oryx-1"), GAP, VO("T11-luna-1"), GAP, VO("T13-oryx-1"), GAP,
           VO("T13-luna-1"), GAP, VO("T13-rosa-1"), 0.3, 7.6, VO("T13-oryx-2"), 0.5]
     t = times(it)
     segs.append(segment("08_scene7", it,
-        [("plate", "trio", round(t[2][1], 3), "in"),
+        [("clip", "s10", round(t[2][1], 3), 0.0, 1.0),
          ("clip", "v4", round(t[4][1] - t[2][1], 3), 0.0, 0.5, 1.5),
          ("plate", "rosa", round(t[10][1] - t[4][1], 3), "in"),
          ("clip", "v4", 3.4, 1.5, 1.0),
          ("clip", "v5", 0)],
-        [word("VETERINARIA", t[7][0], t[8][1] + 0.3)]))
-    # Song: new clips placed where the lyrics talk about them
+        [word("VETERINARIA", t[7][0], t[8][1] + 0.3)], ambient=True,
+        sfx=[("bell", t[3][0], 0.5), ("sparkle", t[7][0], 0.5), ("chirp", t[11][0] + 3.6, 0.6),
+             ("sparkle", t[11][0] + 5.2, 0.45)]))
     clean = f"{SEG}/song.srt"
     lines = clean_srt(SONG_SRT, clean)
     pajaro = next(srt_time(l[1].split(" --> ")[0]) for l in lines if "Pío, pío, pajarito" in l[2])
     nido = next(srt_time(l[1].split(" --> ")[0]) for l in lines if "nido volverás" in l[2])
     segs.append(segment("09_song", [A_SONG],
-        [("plate", "park", 14.0, "in"),
-         ("clip", "v1", 5.0), ("clip", "s03", 3.8, 0.0, 1.0, 3.8), ("clip", "v2", 5.0), ("plate", "surprised", 1.3, "in"),
+        [("clip", "v5", 14.0, 0.0, 0.4),
+         ("clip", "v1", 5.0), ("clip", "s03", 3.8, 0.0, 1.0, 3.8), ("clip", "v2", 5.0), ("clip", "v1", 1.3, 1.0),
          ("clip", "v3", 5.0), ("clip", "v5", 5.0), ("clip", "s09", 4.8),
          ("clip", "s04", 5.0), ("clip", "v4", 5.0), ("clip", "v5", 4.0),
-         ("clip", "s10", 5.0), ("clip", "v3", 3.0, 2.0), ("plate", "park", 4.0, "out"),
-         ("plate", "park", 7.0, "left"), ("clip", "s09", 5.0, 0.0, 1.0, 2.4), ("plate", "day", 2.0, "in"),
-         ("clip", "v5", 5.0), ("plate", "night", 0, "in")],
+         ("clip", "s10", 5.0), ("clip", "v3", 3.0, 2.0), ("clip", "v4", 4.0, 1.0),
+         ("clip", "s10", 5.0), ("clip", "v3", 2.0, 0.0), ("clip", "s09", 5.0, 0.0, 1.0, 2.4), ("clip", "v2", 2.0, 0.0),
+         ("clip", "v5", 5.0), ("clip", "v5", 0, 0.0, 0.33)],
         [title("Pío, pío, pajarito", 1.0, 13.0, 120), word("PÁJARO", pajaro, pajaro + 3.0),
-         word("NIDO", nido, nido + 3.0)], subs=clean, afade_out=1.5))
-    segs.append(segment("10_scene9", [0.2, VO("T20-oryx-1"), 0.5], [("clip", "s09", 0, 2.4)]))
+         word("NIDO", nido, nido + 3.0)], subs=clean, afade_out=1.5,
+        sfx=[("sparkle", pajaro, 0.4), ("sparkle", nido, 0.4)]))
+    segs.append(segment("10_scene9", [0.2, VO("T20-oryx-1"), 0.5], [("clip", "s09", 0, 2.4)],
+        ambient=True, sfx=[("sparkle", 1.3, 0.6)]))
     it = [0.3, VO("T22-oryx-1"), GAP, VO("T22-luna-1"), GAP, VO("T22-oryx-2"), 0.4]
-    segs.append(segment("11_scene10", it, [("clip", "s10", 5.0), ("plate", "park", 0, "in")]))
+    segs.append(segment("11_scene10", it, [("clip", "s10", 5.0), ("clip", "v1", 0, 0.0, 0.2, 1.0)], ambient=True))
     segs.append(segment("12_reflection", [0.3, A_REFLECT, 0.6], [("plate", "night", 0, "in")]))
     close_d = dur(A_CLOSE)
     segs.append(segment("13_closing", [A_CLOSE],
@@ -243,6 +266,7 @@ def main():
     out = sys.argv[1]
     run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst,
          "-c:v", "libx264", "-preset", "medium", "-crf", "24", "-pix_fmt", "yuv420p",
+         "-af", "loudnorm=I=-15:TP=-1.5:LRA=11", "-ar", "48000",
          "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", out])
     print("done", out, round(dur(out), 1), "s")
 

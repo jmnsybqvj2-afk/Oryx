@@ -1,9 +1,10 @@
 # Episode 1 progress — "Pío, pío, pajarito"
 
 ## 🎬 Draft
-- ✅ `draft/episode-01-draft-v2.mp4` (4:44, full quality) and `draft/episode-01-draft-v2-light.mp4` (for phones/iPad).
-  Uses the 5 new Kling videos (bird found, Oryx reaches, Luna listens + nest, Rosa picks up the bird,
-  hands place it in the nest). Rosa's talking part uses a still of Rosa until video 6 is made.
+- ✅ `draft/episode-01-draft-v3.mp4` (4:44, full quality) and `draft/episode-01-draft-v3-light.mp4` (phones/iPad).
+  v3 adds sound effects (antenna beeps, birds, boing, Luna's bell, sparkles), soft park ambience,
+  more animated clips instead of still images, animated on-screen words and YouTube-level loudness (-15 LUFS).
+- ✅ YouTube thumbnail: `thumbnail/thumbnail-episode-01.jpg` (1280×720).
 - ⏳ Video 6 (Rosa talks to Oryx and Luna) — pending credits. Start frame: `start-frames/start-v6-rosa-talks.png`.
   Rebuild with `../tools/build-episode-01-draft.py`.
 

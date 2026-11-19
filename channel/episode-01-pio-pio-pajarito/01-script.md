@@ -53,7 +53,8 @@ See `../shared/opening-and-closing-songs.md`.
 **Luna:** Woof! Here comes Rosa, the veterinarian!
 [ON SCREEN: Rosa arrives. She puts on her gloves, picks up the baby bird very carefully and puts it back in the nest.]
 **Oryx:** What's a veterinarian?
-**Rosa:** She's the animals' doctor! Well done, Oryx. When you find a little animal, you tell a grown-up first.
+**Luna:** She's the animals' doctor!
+**Rosa:** Well done, Oryx. When you find a little animal, you tell a grown-up first.
 **Oryx:** Thank you, Rosa!
 
 ### Scene 8 · 2:00–3:15 · Episode song

@@ -108,9 +108,14 @@ Dice que extraña a su mamá.
 ¿Qué es una veterinaria?
 ```
 
+**Luna** → `T13-luna-1.mp3`
+```
+¡Es la doctora de los animales!
+```
+
 **Rosa** → `T13-rosa-1.mp3`
 ```
-¡Es la doctora de los animales! Muy bien hecho, Oris. Cuando encuentran un animalito, primero se lo dicen a un adulto.
+Muy bien hecho, Oris. Cuando encuentran un animalito, primero se lo dicen a un adulto.
 ```
 
 **Oryx** → `T13-oryx-2.mp3`
